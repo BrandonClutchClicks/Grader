@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Clutch Clicks Call Grades</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@600;700&display=swap">
+<style>
+/* Layout: a call list on the left like a shop's work-order rack, the open grade on the right. One column on a phone. */
+:root {
+  --bg: #eef1f4; --panel: #ffffff; --ink: #18212b; --muted: #5b6876; --line: #d5dbe2;
+  --accent: #0b5cad; --accent-soft: #e2edf8;
+  --good: #1b7a45; --good-soft: #dff2e6; --warn: #9a6200; --warn-soft: #fbedc9; --bad: #b3261e; --bad-soft: #fbe1df;
+  --display: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+  --body: "Barlow", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161c; --panel: #1a222b; --ink: #e8edf2; --muted: #9aa7b4; --line: #2e3945;
+  --accent: #6db3f5; --accent-soft: #1b3350;
+  --good: #63d08e; --good-soft: #173626; --warn: #f0be55; --warn-soft: #3b2f10; --bad: #ff8d85; --bad-soft: #421c1a;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161c; --panel: #1a222b; --ink: #e8edf2; --muted: #9aa7b4; --line: #2e3945;
+  --accent: #6db3f5; --accent-soft: #1b3350;
+  --good: #63d08e; --good-soft: #173626; --warn: #f0be55; --warn-soft: #3b2f10; --bad: #ff8d85; --bad-soft: #421c1a;
+  color-scheme: dark }
+
+* { box-sizing: border-box }
+html { -webkit-text-size-adjust: 100% }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; padding-inline: 16px; padding-block: 20px 48px }
+.wrap { max-width: 1240px; margin: 0 auto; display: grid; grid-template-columns: 290px minmax(0, 1fr); gap: 24px; align-items: start }
+h1, h2, h3, .num { font-family: var(--display); text-wrap: balance; margin: 0 }
+.num { font-variant-numeric: tabular-nums }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted) }
+button, select { font: inherit; color: inherit }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+
+/* list */
+.side { display: grid; gap: 12px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px) }
+.brand { font-size: 26px; line-height: 1.1 }
+.side select { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel) }
+.calls { display: grid; gap: 6px; max-height: 72vh; overflow-y: auto; padding: 2px }
+.call { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; align-items: center; text-align: left; padding: 10px 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; cursor: pointer }
+.call:hover { border-color: var(--accent) }
+.call[aria-current="true"] { border-color: var(--accent); background: var(--accent-soft) }
+.call .who { font-weight: 600; min-width: 0; overflow-wrap: anywhere }
+.call .meta { grid-column: 1; font-size: 13px; color: var(--muted) }
+.call .num { grid-row: 1 / span 2; grid-column: 2; font-size: 26px; font-weight: 700 }
+
+/* grade */
+.main { min-width: 0; display: grid; gap: 22px }
+.empty { background: var(--panel); border: 1px dashed var(--line); border-radius: 8px; padding: 40px 24px; text-align: center; color: var(--muted) }
+.empty h2 { font-size: 24px; color: var(--ink); margin-bottom: 6px }
+.back { display: none; justify-self: start; background: none; border: 0; padding: 4px 0; color: var(--accent); font-weight: 600; cursor: pointer }
+.head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 20px 22px }
+.head h2 { font-size: 34px; line-height: 1.05 }
+.head .sub { color: var(--muted); margin-top: 2px }
+.head .outcome { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap; align-items: baseline }
+.pill { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: 2px 9px; border-radius: 99px }
+.good { color: var(--good) } .warn { color: var(--warn) } .bad { color: var(--bad) }
+.pill.good { background: var(--good-soft) } .pill.warn { background: var(--warn-soft) } .pill.bad { background: var(--bad-soft) }
+.score { text-align: center; padding-left: 20px; border-left: 1px solid var(--line) }
+.score .num { font-size: 68px; line-height: .9; font-weight: 700 }
+.score small { display: block; color: var(--muted); font-size: 13px; margin-top: 4px }
+.flag { font-size: 14px; background: var(--warn-soft); color: var(--warn); border-radius: 6px; padding: 8px 12px }
+.private { background: var(--accent-soft); border-radius: 6px; padding: 12px 14px }
+section { display: grid; gap: 10px; min-width: 0 }
+section > h3 { font-size: 24px }
+.lead { font-size: 17px; max-width: 70ch; margin: 0 }
+p { margin: 0 } .cell p + p, .prose p + p { margin-top: 8px }
+.prose { max-width: 75ch }
+ul.well { margin: 0; padding-left: 20px; display: grid; gap: 6px; max-width: 75ch }
+.counts { display: flex; flex-wrap: wrap; gap: 8px 22px; color: var(--muted) }
+.counts b { color: var(--ink); font-family: var(--display); font-size: 20px; font-variant-numeric: tabular-nums; margin-right: 4px }
+.divider { border: 0; border-top: 2px solid var(--ink); margin: 6px 0 0 }
+
+.tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--panel) }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px }
+th { text-align: left; font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); padding: 10px 14px; border-bottom: 1px solid var(--line) }
+td { vertical-align: top; padding: 12px 14px; border-top: 1px solid var(--line) }
+tr:first-child td { border-top: 0 }
+td.say { background: var(--accent-soft) }
+td.nowrap { white-space: nowrap; font-weight: 600 }
+td .num { font-size: 22px; font-weight: 700 }
+
+@media (max-width: 860px) {
+  .wrap { grid-template-columns: minmax(0, 1fr) }
+  .side { position: static }
+  .calls { max-height: none }
+  body.viewing .side { display: none }
+  body:not(.viewing) .main { display: none }
+  .back { display: block }
+  .head { grid-template-columns: minmax(0, 1fr) }
+  .score { border-left: 0; border-top: 1px solid var(--line); padding: 14px 0 0; text-align: left }
+  .tbl { border: 0; background: none; overflow: visible }
+  table, tbody, tr, td { display: block; width: 100% }
+  thead { display: none }
+  tr { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; margin-bottom: 10px; overflow: hidden }
+  td { border-top: 1px solid var(--line) } tr td:first-child { border-top: 0 }
+  td::before { content: attr(data-l); display: block; font-size: 11px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px }
+  td.nowrap { white-space: normal }
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <aside class="side">
+    <div>
+      <div class="eyebrow">Clutch Clicks</div>
+      <h1 class="brand">Call Grades</h1>
+    </div>
+    <select id="rep-filter" aria-label="Filter by rep"><option value="">All reps</option></select>
+    <div class="calls" id="calls"></div>
+  </aside>
+  <main class="main" id="main">
+    <div class="empty" id="status"><h2>Loading grades</h2><p>One moment.</p></div>
+  </main>
+</div>
+
+<script>
+(function () {
+  var grades = [], full = {}, notes = {}, current = null, repFilter = "";
+  var $calls = document.getElementById("calls"), $main = document.getElementById("main"), $rep = document.getElementById("rep-filter");
+
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  // text -> paragraphs, with **bold**
+  function rich(s) {
+    if (!s) return "";
+    return String(s).split(/\n+/).map(function (p) {
+      return "<p>" + esc(p).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>") + "</p>";
+    }).join("");
+  }
+  function tone(n, max) { var r = n / max; return r >= 0.8 ? "good" : r >= 0.6 ? "warn" : "bad"; }
+  function ynTone(v) { v = String(v || "").toLowerCase(); return v === "yes" ? "good" : v === "partly" ? "warn" : v === "no" ? "bad" : ""; }
+  function fmtDate(d) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d || ""); if (!m) return d || "";
+    return ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+m[2] - 1] + " " + (+m[3]) + ", " + m[1];
+  }
+  function table(heads, rows, classes) {
+    return '<div class="tbl"><table><thead><tr>' + heads.map(function (h) { return "<th>" + esc(h) + "</th>"; }).join("") + "</tr></thead><tbody>" +
+      rows.map(function (r) {
+        return "<tr>" + r.map(function (c, i) { return '<td class="cell ' + ((classes && classes[i]) || "") + '" data-l="' + esc(heads[i]) + '">' + c + "</td>"; }).join("") + "</tr>";
+      }).join("") + "</tbody></table></div>";
+  }
+
+  function renderList() {
+    var reps = [];
+    grades.forEach(function (g) { if (g.rep && reps.indexOf(g.rep) < 0) reps.push(g.rep); });
+    reps.sort();
+    $rep.innerHTML = '<option value="">All reps</option>' + reps.map(function (r) { return '<option value="' + esc(r) + '">' + esc(r) + "</option>"; }).join("");
+    $rep.value = reps.indexOf(repFilter) >= 0 ? repFilter : (repFilter = "");
+    var shown = grades.filter(function (g) { return !repFilter || g.rep === repFilter; });
+    $calls.innerHTML = shown.map(function (g) {
+      return '<button class="call" data-id="' + esc(g.id) + '" aria-current="' + (g.id === current) + '">' +
+        '<span class="who">' + esc(g.rep) + " · " + esc(g.owner || g.shop) + "</span>" +
+        '<span class="num ' + tone(g.grade, 100) + '">' + esc(g.grade) + "</span>" +
+        '<span class="meta">' + esc(fmtDate(g.date)) + " · " + (g.closed ? "Closed" : "Not closed") + "</span></button>";
+    }).join("") || (grades.length ? '<p class="eyebrow">No calls for this rep yet</p>' : "");
+  }
+
+  function renderGrade() {
+    var g = full[current];
+    if (!g && grades.length) { $main.innerHTML = '<div class="empty"><h2>Loading grade</h2><p>One moment.</p></div>'; return; }
+    if (!g) {
+      $main.innerHTML = '<div class="empty"><h2>No calls graded yet</h2><p>New grades show up here as they are added.</p></div>';
+      return;
+    }
+    var c = g.counts || {}, h = "";
+    h += '<button class="back" id="back">← All calls</button>';
+    h += '<div class="head"><div><div class="eyebrow">' + esc(fmtDate(g.date)) + "</div><h2>" + esc(g.rep) + "</h2>" +
+      '<div class="sub">' + esc(g.shop) + "</div>" +
+      '<div class="outcome"><span class="pill ' + (g.closed ? "good" : "bad") + '">' + (g.closed ? "Closed" : "Not closed") + "</span><span>" + esc(g.outcome) + "</span></div></div>" +
+      '<div class="score"><div class="num ' + tone(g.grade, 100) + '">' + esc(g.grade) + "</div><small>out of 100</small></div></div>";
+    if (g.flag) h += '<div class="flag">' + rich(g.flag) + "</div>";
+    if (notes[g.id]) h += '<div class="private"><div class="eyebrow">Note to Brandon · only editors see this</div>' + rich(notes[g.id]) + "</div>";
+
+    h += "<section><h3>" + (g.closed ? "Why it closed, and what almost lost it" : "Why it didn't close") + '</h3><div class="lead">' + rich(g.why) + "</div></section>";
+    if (g.three && g.three.length) h += "<section><h3>" + (g.closed ? "Three things to tighten" : "Three things that would have closed it") + "</h3>" +
+      table(["What happened", "Say this next time", "Why it closes"], g.three.map(function (r) { return [rich(r.happened), rich(r.say), rich(r.why)]; }), ["", "say", ""]) + "</section>";
+    if (g.oneMore) h += '<section><h3>One more that cost you money</h3><div class="prose">' + rich(g.oneMore) + "</div></section>";
+    if (g.didWell && g.didWell.length) h += '<section><h3>What you did well</h3><ul class="well">' + g.didWell.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul></section>";
+    if (g.followUp) h += '<section><h3>Follow-up</h3><div class="prose">' + rich(g.followUp) + "</div></section>";
+
+    h += '<hr class="divider"><section><h3>Breakdown</h3><div class="counts">' +
+      "<span><b>" + esc(c.problems) + "</b>problems the owner said</span>" +
+      "<span><b>" + esc(c.beliefs) + "</b>beliefs educated</span>" +
+      "<span><b>" + esc(c.missed) + "</b>missed opportunities</span></div>" +
+      (g.breakdownNote ? '<p class="sub" style="color:var(--muted)">' + esc(g.breakdownNote) + "</p>" : "") + "</section>";
+    if (g.stages) h += "<section><h3>Stages</h3>" + table(["Stage", "Score", "What happened", "Fix"], g.stages.map(function (s) {
+      return [esc(s.stage), '<span class="num ' + tone(s.score, 10) + '">' + esc(s.score) + "</span>", rich(s.happened), rich(s.fix)];
+    }), ["nowrap", "", "", "say"]) + "</section>";
+    if (g.scoreboard) h += "<section><h3>Scoreboard: did the owner say the problem?</h3>" + table(["Problem", "Did he say it?", "Fix"], g.scoreboard.map(function (s) {
+      return [esc(s.problem), '<p><span class="pill ' + ynTone(s.said) + '">' + esc(s.said) + "</span></p>" + rich(s.quote), rich(s.fix)];
+    }), ["nowrap", "", "say"]) + "</section>";
+    if (g.readOwner) h += "<section><h3>Read the owner</h3>" + table(["What he said", "Belief underneath", "What you did", "Fix"], g.readOwner.map(function (s) {
+      return [rich(s.said), rich(s.belief) + (s.educated ? '<p><span class="pill ' + ynTone(s.educated) + '">Educated: ' + esc(s.educated) + "</span></p>" : ""), rich(s.did), rich(s.fix)];
+    }), ["", "", "", "say"]) + "</section>";
+    $main.innerHTML = h;
+  }
+
+  function open(id, fromTap) {
+    current = id;
+    if (fromTap) { document.body.classList.add("viewing"); try { location.hash = id; } catch (e) {} window.scrollTo(0, 0); }
+    renderList(); renderGrade(); loadGrade(id);
+  }
+  $calls.addEventListener("click", function (e) { var b = e.target.closest(".call"); if (b) open(b.dataset.id, true); });
+  $main.addEventListener("click", function (e) { if (e.target.id === "back") document.body.classList.remove("viewing"); });
+  $rep.addEventListener("change", function () { repFilter = $rep.value; renderList(); });
+
+  function fail(title, msg) { $main.innerHTML = '<div class="empty"><h2>' + esc(title) + "</h2><p>" + esc(msg) + "</p></div>"; document.body.classList.add("viewing"); }
+
+  function loadGrade(id) {
+    if (!id || full[id]) return;
+    fetch("grades/" + encodeURIComponent(id) + ".json", { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw 0; return r.json(); })
+      .then(function (g) { g.id = id; full[id] = g; if (current === id) renderGrade(); })
+      .catch(function () { if (current === id) fail("This grade couldn't load", "Reload the page to try again."); });
+  }
+  fetch("grades/index.json", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw 0; return r.json(); })
+    .then(function (list) {
+      grades = list.slice().sort(function (a, b) { return String(b.date).localeCompare(String(a.date)) || String(b.id).localeCompare(String(a.id)); });
+      var has = function (id) { return grades.some(function (g) { return g.id === id; }); };
+      var hash = ""; try { hash = decodeURIComponent(location.hash.slice(1)); } catch (e) {}
+      current = has(hash) ? hash : (grades[0] && grades[0].id) || null;
+      if (has(hash)) document.body.classList.add("viewing");
+      renderList(); renderGrade(); loadGrade(current);
+    })
+    .catch(function () { fail("Grades couldn't load", "Reload the page to try again."); });
+})();
+</script>
+
+</body>
+</html>

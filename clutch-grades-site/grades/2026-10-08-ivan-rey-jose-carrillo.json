@@ -1,0 +1,174 @@
+{
+ "rep": "Ivan Rey",
+ "owner": "Jose Carrillo",
+ "shop": "Jose Carrillo's auto body shop (Albany, CA)",
+ "date": "2026-10-08",
+ "closed": false,
+ "outcome": "\"I want to think about it.\" No follow-up booked. Ivan to send info.",
+ "grade": 63,
+ "flag": "Recording note: it kept running about 26 minutes after the call and captured Jose's own shop calls with customer names. Trim it.",
+ "why": "Jose never saw the money in his own numbers, so $297 sounded like one more marketing bill on top of the guy he already pays. Then the price came out tangled. He asked three times what the bill was and never heard one clean total or \"which one?\"",
+ "three": [
+  {
+   "happened": "**31:10** Jose: \"I like what I see… especially the AI thing, I kind of like that.\" Then: \"So that alone is $200?\"\nYou: \"Yeah, $200 a month.\"",
+   "say": "**Missed opportunity:** he named the thing he wants and you quoted him the expensive way to get it.\n**Educate (Script):** \"Cool it's $200 a month on top of the $297. Honestly, you might as well just do the three months. You get it free and the winning formula to get your listing built out the right way is half off. You'd be paying more to get less.\"\nThen: \"Which one do you want to get started with?\"",
+   "why": "He told you what he wanted to buy. The 3-month special is the only way he gets it free."
+  },
+  {
+   "happened": "**25:25** Jose: \"I'm already spending money on marketing and this is not on my budget right now.\"\nYou offered $297 but never asked what his marketing guy costs or produces.",
+   "say": "**Probe (Q&A):** \"What's your return on investment with it and without it?\"\n**Acknowledge (Q&A):** \"You don't have to keep them; that's an internal decision.\"\n**Educate (Q&A):** \"You're only paying them for traffic, and you're paying for traffic you can't convert on.\"",
+   "why": "He already said his guy \"hasn't done anything\" on the listing (18:29). His budget is going to traffic that lands on 51 reviews and an email inbox."
+  },
+  {
+   "happened": "**10:06** Jose: \"Between $3,000 and $7,000.\"\nAt 10:54 you ran the math on \"the low end on average for shops… $1,000 a month\" with \"2 jobs a week.\" Not his number, and it didn't add up.",
+   "say": "**Educate (Script, his number cut in half):** \"You mentioned earlier your average ticket is $3,000 to $7,000. Let's be conservative and call it $1,500. Now, if all we did was help you land one extra customer a month just from the Missed Call Text-Back, the leads we capture from the smart website, or the reviews, you're 5x on a $297 investment. Does that make sense?\"",
+   "why": "One job at half his lowest ticket pays for five months. That makes \"not in my budget\" hard to say."
+  }
+ ],
+ "oneMore": "**23:45** Jose: \"So I'm looking like, what, $800 a month or what?\" Your answer mixed up $250 and $891 and never gave the total.\n**Say this (Q&A):** \"Two things. The website is $297 a month. Fixing up your Google listing is a one-time $500. Right now, if you pay three months up front, the listing is half off, $250. So today is $891 plus $250, $1,141, and then $297 a month starting month four. Or one month plus the listing is $797. Which one do you want to start with?\"",
+ "didWell": [
+  "**9:49** \"Yeah, but like after business hours or like weekends, holidays…?\" got \"We usually leave a voicemail\" from an owner who had just said he doesn't miss calls.",
+  "**11:37** \"How are you getting reviews right now?… You only have 51\" got \"I feel like it's outdated, to be honest… it's not automated,\" and then \"25 years.\""
+ ],
+ "followUp": "None booked. When you send the info, ask for a 10-minute call and open with: \"What's your return on investment with it and without it?\" about his current marketing guy.",
+ "counts": {
+  "problems": "5 of 6",
+  "beliefs": "0 of 5",
+  "missed": "7"
+ },
+ "breakdownNote": "No setter handoff note was available for this grade.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "score": 8,
+   "happened": "Path set and agreed. Decision maker gated after the video. Never confirmed the shop or asked one vs. multiple.",
+   "fix": "**Script:** \"I know we're going to be talking about [SHOP NAME]. Is that the only shop you run, or do you run multiple?\""
+  },
+  {
+   "stage": "2. Video Check",
+   "score": 10,
+   "happened": "Not watched. Shared screen and played it before any questions.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "score": 4.8,
+   "happened": "Questions 5, Bridge 3, Leads 6, Missed calls 6, Reviews 6, Money 3.\nNo bridge and no first gear before the metrics. Math ran before reviews, on a number that wasn't his.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Jose?\"\nWait for the yes, then first gear, then the three metrics."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "score": 6,
+   "happened": "Map pack explained. All three findings with a live competitor. But out of order, no \"does that make sense,\" called it \"good SEO\" and \"GMBP optimization,\" and said \"You'll rank on the higher results\" (28:27).",
+   "fix": "Order is photos, services, description, with \"Does that make sense?\" after each.\n**Script wording:** \"increase your chances of ranking higher on the map pack.\"\nNever \"SEO,\" never \"optimization,\" never \"you'll rank.\""
+  },
+  {
+   "stage": "5. Transition",
+   "score": 6,
+   "happened": "7 to 10 days and all four things. Onboarding time never locked.",
+   "fix": "**Script:** \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
+  },
+  {
+   "stage": "6. Close",
+   "score": 3,
+   "happened": "$297, $500, receptionist clip, then a tangled special. No \"why guys stay,\" no total, no \"which one.\" Downsell offered three times without an ask. Ended on \"either a hell yes or a hell no.\"",
+   "fix": "**Script, all in one go:** $297 a month for the smart website system. Then $500 one time for the winning formula. Then \"there's a reason guys stay with us for over a year and we don't do contracts.\" Then the special as two things.\nEnd with: \"Which one do you want to get started with?\""
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "7:29 \"Not a lot. To be honest. I get a lot more leads from Google.\"\nYou: \"Google is great.\"",
+   "fix": "**Missed opportunity:** he pointed at his listing and you praised it.\n**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Script):** \"If you don't know your numbers you won't know how to scale.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "Yes",
+   "quote": "8:18 \"Like an estimate request, we get it in our email box.\"",
+   "fix": "You told him why instead of asking.\n**Probe (Script):** \"Even if you had the best receptionist watching that inbox 24/7… Most people aren't even going to respond to you. You know why?\" Then stop."
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "Yes",
+   "quote": "After hours. 9:55 \"We usually leave a voicemail.\"",
+   "fix": "Good probe, then no credit given.\n**Acknowledge (Brandon's line):** \"Hey, look, man, that's awesome that you're on top of your phones. Those are our best partners.\"\n**Educate (Brandon's line):** \"The automotive industry is a high-volume-based business. If you miss a call, the person traditionally ends up calling the next competitor. This is just to help you if anything slips through the cracks.\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "10:06 \"Between $3,000 and $7,000.\"",
+   "fix": "**Missed opportunity:** his number was never used.\n**Educate (Script, his number halved):** \"You mentioned earlier your average ticket is $3,000 to $7,000. Let's be conservative and call it $1,500. If all we did was help you land one extra customer a month, you're 5x on a $297 investment. Does that make sense?\""
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "Yes",
+   "quote": "11:50 \"We have a code that they scan… I feel like it's outdated, to be honest… it's not automated.\"",
+   "fix": "You then said \"The more reviews you get, the better\" (13:40). That's the opposite of the script.\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "Yes",
+   "quote": "18:29 \"I'm actually the one that I've loaded some photos. He hasn't done anything on it.\"",
+   "fix": "**Missed opportunity:** he's paying a guy who hasn't touched his best asset, and you moved straight to geotagging.\n**Educate (Script, realtor line):** \"Think about selling a house you hire an agent. If you hire the wrong agent who doesn't have the formula to list it correctly, what happens? It sits. Google listings work exactly the same way.\""
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**6:11** \"How effective is this system and… keep records and track of the shops?\"\n**6:37** On contracts: \"that's what my next question was going to be.\"",
+   "belief": "Marketing companies lock you in and you never see what you got.",
+   "educated": "Partly",
+   "did": "\"It's pretty effective,\" then no contracts and the metrics. Never asked what happened to him.",
+   "fix": "**Probe (Q&A):** \"Can I ask what the last [one] actually did? Not what they promised, what they did.\"\n**Educate (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI: leads captured from the traffic you're already getting, missed calls saved, reviews earned.\""
+  },
+  {
+   "said": "**14:01** \"Do you guys create like a website on top of the one I have or is it using the same website?\"",
+   "belief": "A website is a website.",
+   "educated": "No",
+   "did": "\"Generally we'll fix the website that you already have.\" That's wrong. It's a full rebuild.",
+   "fix": "**Educate (Q&A):** \"Part of the $297 is a full rebuild of your website. But the real reason guys switch to a smart website system over a traditional one comes down to the sales process: tracking your lead flow and knowing your numbers.\"\nThen: \"Do you know how many leads you're getting from it right now?\""
+  },
+  {
+   "said": "**14:37** \"What do you think of me having photos of me and my family on the website?\"\n**16:19** \"it wasn't my idea… The guy that's doing my marketing right now.\"",
+   "belief": "A website is about how it looks.",
+   "educated": "No",
+   "did": "Two minutes of opinion, no bounce back to leads.",
+   "fix": "No approved answer on family photos in project knowledge.\n**Closest (Brandon's line):** our system is built to capture, not just look cool. Then back to the leads question."
+  },
+  {
+   "said": "**16:40** \"He's on my website and pretty much my Google Ads.\"",
+   "belief": "New business means paid ads.",
+   "educated": "Partly",
+   "did": "Said ads would be \"burning money,\" defined first gear as website, reviews and \"a good SEO,\" and guessed at what his guy is doing. No yes from Jose.",
+   "fix": "**Educate (Brandon's line):** \"That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic.\"\nThen: \"Does that make sense?\""
+  },
+  {
+   "said": "**25:25** \"I'm already spending money on marketing and this is not on my budget right now.\"",
+   "belief": "This is an added cost, not a fix for what I already pay for.",
+   "educated": "No",
+   "did": "Downsell without asking what he spends or gets.",
+   "fix": "**Probe (Q&A):** \"What's your return on investment with it and without it?\"\n**Acknowledge (Q&A):** \"You don't have to keep them; that's an internal decision.\"\n**Educate (Q&A):** \"You're only paying them for traffic, and you're paying for traffic you can't convert on.\""
+  },
+  {
+   "said": "**29:00** After \"you're number four\": \"So am I doing something wrong?\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"You're better, way better than all these guys,\" then an ice cream shop in Miami.",
+   "fix": "**Missed opportunity:** he asked you to sell him the listing.\n**Educate (Script):** \"There is a winning formula to get your listing set up the right way to increase your chances of ranking higher on the map pack, outside of us getting you reviews on our $297/month package.\""
+  },
+  {
+   "said": "**30:29** \"I like what I see, but… I want to think about it.\"\n**32:12** \"I don't know much about you guys.\"",
+   "belief": "Same trust issue as 6:11.",
+   "educated": "No",
+   "did": "\"It's just like a nice way to say no… either a hell yes or a hell no.\"",
+   "fix": "**Acknowledge + Educate (Script downsell):** \"No worries. We get you started with the foundation at $297 today. I'll mark your account so you're grandfathered in at this special. You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow, morning or evening?\""
+  },
+  {
+   "said": "**31:10** \"Especially the AI thing, I kind of like that… So that alone is $200?\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"Yeah, $200 a month.\"",
+   "fix": "**Educate (Script):** \"Honestly, you might as well just do the three months. You get it free and the winning formula to get your listing built out the right way is half off. You'd be paying more to get less.\""
+  }
+ ]
+}
