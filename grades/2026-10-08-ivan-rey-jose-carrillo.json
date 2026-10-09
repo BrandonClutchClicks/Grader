@@ -5,7 +5,6 @@
  "date": "2026-10-08",
  "closed": false,
  "outcome": "\"I want to think about it.\" No follow-up booked. Ivan to send info.",
- "grade": 63,
  "flag": "Recording note: it kept running about 26 minutes after the call and captured Jose's own shop calls with customer names. Trim it.",
  "why": "Jose never saw the money in his own numbers, so $297 sounded like one more marketing bill on top of the guy he already pays. Then the price came out tangled. He asked three times what the bill was and never heard one clean total or \"which one?\"",
  "three": [
@@ -40,37 +39,31 @@
  "stages": [
   {
    "stage": "1. Intro + Frame",
-   "score": 8,
    "happened": "Path set and agreed. Decision maker gated after the video. Never confirmed the shop or asked one vs. multiple.",
    "fix": "**Script:** \"I know we're going to be talking about [SHOP NAME]. Is that the only shop you run, or do you run multiple?\""
   },
   {
    "stage": "2. Video Check",
-   "score": 10,
    "happened": "Not watched. Shared screen and played it before any questions.",
    "fix": "None."
   },
   {
    "stage": "3. Product Value",
-   "score": 4.8,
-   "happened": "Questions 5, Bridge 3, Leads 6, Missed calls 6, Reviews 6, Money 3.\nNo bridge and no first gear before the metrics. Math ran before reviews, on a number that wasn't his.",
+   "happened": "No bridge and no first gear before the metrics. Math ran before reviews, on a number that wasn't his.",
    "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Jose?\"\nWait for the yes, then first gear, then the three metrics."
   },
   {
    "stage": "4. GMB Upsell",
-   "score": 6,
    "happened": "Map pack explained. All three findings with a live competitor. But out of order, no \"does that make sense,\" called it \"good SEO\" and \"GMBP optimization,\" and said \"You'll rank on the higher results\" (28:27).",
    "fix": "Order is photos, services, description, with \"Does that make sense?\" after each.\n**Script wording:** \"increase your chances of ranking higher on the map pack.\"\nNever \"SEO,\" never \"optimization,\" never \"you'll rank.\""
   },
   {
    "stage": "5. Transition",
-   "score": 6,
    "happened": "7 to 10 days and all four things. Onboarding time never locked.",
    "fix": "**Script:** \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
   },
   {
    "stage": "6. Close",
-   "score": 3,
    "happened": "$297, $500, receptionist clip, then a tangled special. No \"why guys stay,\" no total, no \"which one.\" Downsell offered three times without an ask. Ended on \"either a hell yes or a hell no.\"",
    "fix": "**Script, all in one go:** $297 a month for the smart website system. Then $500 one time for the winning formula. Then \"there's a reason guys stay with us for over a year and we don't do contracts.\" Then the special as two things.\nEnd with: \"Which one do you want to get started with?\""
   }

@@ -5,7 +5,6 @@
  "date": "2026-10-08",
  "closed": false,
  "outcome": "Josh wants to price the Mitchell 1 website add-on first. Follow-up booked Wed Oct 14, 10:00.",
- "grade": 53,
  "flag": "Recording note: from about 36:00 to 40:00 the shop checked in a walk-in customer, and her name and phone number are on the recording. Redact that part.",
  "why": "Josh never saw the money in his own numbers, and when he said he texts leads back himself you told him he was \"way ahead of the curve.\" So when the price came, the only difference he could see between you and the Mitchell 1 website add-on was $100 a month.",
  "three": [
@@ -40,37 +39,31 @@
  "stages": [
   {
    "stage": "1. Intro + Frame",
-   "score": 7,
    "happened": "Path set: \"get them answered, everything makes sense, we get you up and running. Fair enough?\" Both were on. Never confirmed the shop or asked who else needs to be on the call.",
    "fix": "**Script:** \"Before we get into it, is there anyone else that needs to be on this call? Maybe a co-founder, a partner, anything like that?\""
   },
   {
    "stage": "2. Video Check",
-   "score": 10,
    "happened": "Not watched. Shared screen and played it before any questions.",
    "fix": "None."
   },
   {
    "stage": "3. Product Value",
-   "score": 4.0,
-   "happened": "Questions 5, Bridge 3, Leads 6, Missed calls 2, Reviews 5, Money 3.\nNo bridge question, and the three numbers were never named together. You never asked if he misses calls. Josh read the $297 package off your screen at 23:22, before any math.",
+   "happened": "No bridge question, and the three numbers were never named together. You never asked if he misses calls. Josh read the $297 package off your screen at 23:22, before any math.",
    "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Josh?\"\nWait for the yes. Then: \"The reason why people pay us $297 a month and we don't do contracts it's because we track three metrics every month so you can understand your Return On Investment: leads captured from the traffic you're already getting, how many missed calls we save you, and how many reviews we help you get month over month.\""
   },
   {
    "stage": "4. GMB Upsell",
-   "score": 6,
    "happened": "Map pack shown live, paid versus organic explained, then photos, services and description in order. No \"does that make sense\" after any of them. Called it \"Google Business Profile Optimization\" and said it \"should jack you up super high in the listing\" (41:06).",
    "fix": "Call it the winning formula, and check after each finding: \"Does that make sense?\"\n**Script wording:** \"increase your chances of ranking higher on the map pack.\" Never say where he will land."
   },
   {
    "stage": "5. Transition",
-   "score": 1,
    "happened": "\"7 to 10 days\" was said once, before the video (1:12). The four things and the onboarding time never came. You went from Lolo's visibility worry straight to price (35:13).",
    "fix": "**Script:** \"On that onboarding call we need four things from you.\" Photos of his best work, his customer database, his list of services, his service areas.\nThen: \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
   },
   {
    "stage": "6. Close",
-   "score": 4,
    "happened": "$297, $500, why guys stay, the 3-month special and \"which is the one we want to start with\" were all there. But **41:06** \"you guys say you never miss a call, which is awesome, but we do offer... an AI receptionist\" got \"No, we don't need that.\" No $297 start was offered when he balked.",
    "fix": "He told you he never misses calls, so don't sell the receptionist against that. Lead the special with the listing at half off.\nWhen he balks, don't book a follow-up before you've offered the $297 start."
   }

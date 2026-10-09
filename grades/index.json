@@ -5,8 +5,8 @@
   "shop": "Jose Carrillo's auto body shop (Albany, CA)",
   "date": "2026-10-08",
   "closed": false,
-  "grade": 63,
-  "id": "2026-10-08-ivan-rey-jose-carrillo"
+  "id": "2026-10-08-ivan-rey-jose-carrillo",
+  "problems": "5 of 6"
  },
  {
   "rep": "Todd Cowie",
@@ -14,7 +14,7 @@
   "shop": "Lolo's Auto Repair (Derry)",
   "date": "2026-10-08",
   "closed": false,
-  "grade": 53,
-  "id": "2026-10-08-todd-cowie-lolos-auto-repair"
+  "id": "2026-10-08-todd-cowie-lolos-auto-repair",
+  "problems": "4 of 6"
  }
 ]

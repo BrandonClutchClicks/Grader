@@ -132,6 +132,7 @@ td .num { font-size: 22px; font-weight: 700 }
       return "<p>" + esc(p).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>") + "</p>";
     }).join("");
   }
+  function said(p) { return String(p || "").replace(/\s*of\s*/, "/"); }
   function tone(n, max) { var r = n / max; return r >= 0.8 ? "good" : r >= 0.6 ? "warn" : "bad"; }
   function ynTone(v) { v = String(v || "").toLowerCase(); return v === "yes" ? "good" : v === "partly" ? "warn" : v === "no" ? "bad" : ""; }
   function fmtDate(d) {
@@ -155,7 +156,7 @@ td .num { font-size: 22px; font-weight: 700 }
     $calls.innerHTML = shown.map(function (g) {
       return '<button class="call" data-id="' + esc(g.id) + '" aria-current="' + (g.id === current) + '">' +
         '<span class="who">' + esc(g.rep) + " · " + esc(g.owner || g.shop) + "</span>" +
-        '<span class="num ' + tone(g.grade, 100) + '">' + esc(g.grade) + "</span>" +
+        '<span class="num">' + esc(said(g.problems)) + "</span>" +
         '<span class="meta">' + esc(fmtDate(g.date)) + " · " + (g.closed ? "Closed" : "Not closed") + "</span></button>";
     }).join("") || (grades.length ? '<p class="eyebrow">No calls for this rep yet</p>' : "");
   }
@@ -172,7 +173,7 @@ td .num { font-size: 22px; font-weight: 700 }
     h += '<div class="head"><div><div class="eyebrow">' + esc(fmtDate(g.date)) + "</div><h2>" + esc(g.rep) + "</h2>" +
       '<div class="sub">' + esc(g.shop) + "</div>" +
       '<div class="outcome"><span class="pill ' + (g.closed ? "good" : "bad") + '">' + (g.closed ? "Closed" : "Not closed") + "</span><span>" + esc(g.outcome) + "</span></div></div>" +
-      '<div class="score"><div class="num ' + tone(g.grade, 100) + '">' + esc(g.grade) + "</div><small>out of 100</small></div></div>";
+      (c.problems ? '<div class="score"><div class="num">' + esc(said(c.problems)) + "</div><small>problems the owner said</small></div>" : "") + "</div>";
     if (g.flag) h += '<div class="flag">' + rich(g.flag) + "</div>";
     if (notes[g.id]) h += '<div class="private"><div class="eyebrow">Note to Brandon · only editors see this</div>' + rich(notes[g.id]) + "</div>";
 
@@ -188,9 +189,9 @@ td .num { font-size: 22px; font-weight: 700 }
       "<span><b>" + esc(c.beliefs) + "</b>beliefs educated</span>" +
       "<span><b>" + esc(c.missed) + "</b>missed opportunities</span></div>" +
       (g.breakdownNote ? '<p class="sub" style="color:var(--muted)">' + esc(g.breakdownNote) + "</p>" : "") + "</section>";
-    if (g.stages) h += "<section><h3>Stages</h3>" + table(["Stage", "Score", "What happened", "Fix"], g.stages.map(function (s) {
-      return [esc(s.stage), '<span class="num ' + tone(s.score, 10) + '">' + esc(s.score) + "</span>", rich(s.happened), rich(s.fix)];
-    }), ["nowrap", "", "", "say"]) + "</section>";
+    if (g.stages) h += "<section><h3>Stages</h3>" + table(["Stage", "What happened", "Fix"], g.stages.map(function (s) {
+      return [esc(s.stage), rich(s.happened), rich(s.fix)];
+    }), ["nowrap", "", "say"]) + "</section>";
     if (g.scoreboard) h += "<section><h3>Scoreboard: did the owner say the problem?</h3>" + table(["Problem", "Did he say it?", "Fix"], g.scoreboard.map(function (s) {
       return [esc(s.problem), '<p><span class="pill ' + ynTone(s.said) + '">' + esc(s.said) + "</span></p>" + rich(s.quote), rich(s.fix)];
     }), ["nowrap", "", "say"]) + "</section>";
