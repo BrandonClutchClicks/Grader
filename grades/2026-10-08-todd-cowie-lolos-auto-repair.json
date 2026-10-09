@@ -1,0 +1,188 @@
+{
+ "rep": "Todd Cowie",
+ "owner": "Josh Carlson and Lolo",
+ "shop": "Lolo's Auto Repair (Derry)",
+ "date": "2026-10-08",
+ "closed": false,
+ "outcome": "Josh wants to price the Mitchell 1 website add-on first. Follow-up booked Wed Oct 14, 10:00.",
+ "grade": 53,
+ "flag": "Recording note: from about 36:00 to 40:00 the shop checked in a walk-in customer, and her name and phone number are on the recording. Redact that part.",
+ "why": "Josh never saw the money in his own numbers, and when he said he texts leads back himself you told him he was \"way ahead of the curve.\" So when the price came, the only difference he could see between you and the Mitchell 1 website add-on was $100 a month.",
+ "three": [
+  {
+   "happened": "**42:01** Josh: \"Their price is cheaper... Theirs is $100 cheaper a month.\" Then: \"If they can't do all the things that you can do, I don't see a reason why we wouldn't give an opportunity.\"\nYou: \"Really? Okay, that's interesting. Can you share them with me so I can chase them down and learn about what they do?\"",
+   "say": "**Probe (Brandon's line):** \"Does it text the lead back in 30 seconds, or does the form sit in an inbox? How many leads did it produce last month?\"\n**Educate (Brandon's line):** \"Our system is built to capture, not just look cool. A lot of guys have come to us from Mitchell 1 because their websites looked decent but weren't built to convert.\"\n**If he still balks (Script):** \"No worries. We get you started with the foundation at $297 today. I'll mark your account so you're grandfathered in at this special. You're not risking anything. Let's get you started at $297. Onboarding tomorrow, morning or evening?\"",
+   "why": "He told you the test: can Mitchell do what you do. Two questions he can't answer about their site settle that on the call instead of in a week."
+  },
+  {
+   "happened": "**27:56** Josh: \"if someone's taking the time to send an email, I will print it out, and I'll respond back.\" **29:09** \"I will build them a quote and respond back via text through Mitchell.\"\nYou: \"Cool. That's awesome. So you guys are way ahead of the curve.\"",
+   "say": "**Missed opportunity:** he does by hand the exact thing the system does for him, and you praised it.\n**Educate (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\"\n**Then (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\"\n**Then (Script):** \"You can think of our system as if it's dancing with your prospect and then it's your job to come into the conversation and pick it up and close the deal.\"",
+   "why": "He prints emails and builds each quote by hand. That is the gap a cheaper Mitchell website won't close, and you told him it wasn't a gap."
+  },
+  {
+   "happened": "**27:42** Josh: \"I don't know, between $500 and $1,000.\"\nYou: \"even on the low end of that, right, we save you one missed call, one text...\" Josh cut in: \"We don't usually miss the phone calls.\" No number was ever said.",
+   "say": "**Missed opportunity:** he gave you his number and the math never reached a figure.\n**Educate (Script):** \"You mentioned earlier your average order value is around $500. Okay. Most shops range from $500 to $5,000+ depending on the job. Now, if all we did was help you land one to two extra customers a month just from the Missed Call Text-Back, the leads we capture from the smart website, or the reviews you're still 3-4x on a $297 investment. Does that make sense?\"",
+   "why": "At $500 a job, one extra customer covers the month. Next to that, $100 cheaper stops being the deciding number."
+  }
+ ],
+ "oneMore": "**32:40** Lolo: \"Everybody was coming up, all the repair shops... except us, and they were all closed.\" Then: \"we are in the middle of nowhere so we need advertisement done right.\"\nYou: \"100%, 100%, and this system can actually help you do that.\" That agrees he has a visibility problem. He has a capture problem.\n**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Brandon's line):** \"Most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\"",
+ "didWell": [
+  "**20:11** \"Does your current site track your leads?\" got \"I don't know.\"",
+  "**11:24** \"You got a good chunk of reviews, but I think you've been in business for a long time. It could have a lot more, yeah?\" got \"a lot of the more recent reviews have been going to SureCritic because of how Mitchell responds.\""
+ ],
+ "followUp": "Wed Oct 14, 10:00. Bring the Carfax answer you promised, then open with: \"Does it text the lead back in 30 seconds, or does the form sit in an inbox? How many leads did it produce last month?\" about the Mitchell 1 site.",
+ "counts": {
+  "problems": "4 of 6",
+  "beliefs": "0 of 6",
+  "missed": "7"
+ },
+ "breakdownNote": "No setter handoff note was available for this grade. Fathom labels Josh and Lolo as one speaker, so their lines are split by content.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "score": 7,
+   "happened": "Path set: \"get them answered, everything makes sense, we get you up and running. Fair enough?\" Both were on. Never confirmed the shop or asked who else needs to be on the call.",
+   "fix": "**Script:** \"Before we get into it, is there anyone else that needs to be on this call? Maybe a co-founder, a partner, anything like that?\""
+  },
+  {
+   "stage": "2. Video Check",
+   "score": 10,
+   "happened": "Not watched. Shared screen and played it before any questions.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "score": 4.0,
+   "happened": "Questions 5, Bridge 3, Leads 6, Missed calls 2, Reviews 5, Money 3.\nNo bridge question, and the three numbers were never named together. You never asked if he misses calls. Josh read the $297 package off your screen at 23:22, before any math.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Josh?\"\nWait for the yes. Then: \"The reason why people pay us $297 a month and we don't do contracts it's because we track three metrics every month so you can understand your Return On Investment: leads captured from the traffic you're already getting, how many missed calls we save you, and how many reviews we help you get month over month.\""
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "score": 6,
+   "happened": "Map pack shown live, paid versus organic explained, then photos, services and description in order. No \"does that make sense\" after any of them. Called it \"Google Business Profile Optimization\" and said it \"should jack you up super high in the listing\" (41:06).",
+   "fix": "Call it the winning formula, and check after each finding: \"Does that make sense?\"\n**Script wording:** \"increase your chances of ranking higher on the map pack.\" Never say where he will land."
+  },
+  {
+   "stage": "5. Transition",
+   "score": 1,
+   "happened": "\"7 to 10 days\" was said once, before the video (1:12). The four things and the onboarding time never came. You went from Lolo's visibility worry straight to price (35:13).",
+   "fix": "**Script:** \"On that onboarding call we need four things from you.\" Photos of his best work, his customer database, his list of services, his service areas.\nThen: \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
+  },
+  {
+   "stage": "6. Close",
+   "score": 4,
+   "happened": "$297, $500, why guys stay, the 3-month special and \"which is the one we want to start with\" were all there. But **41:06** \"you guys say you never miss a call, which is awesome, but we do offer... an AI receptionist\" got \"No, we don't need that.\" No $297 start was offered when he balked.",
+   "fix": "He told you he never misses calls, so don't sell the receptionist against that. Lead the special with the listing at half off.\nWhen he balks, don't book a follow-up before you've offered the $297 start."
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "Yes",
+   "quote": "20:11 You: \"Does your current site track your leads?\"\nJosh: \"I don't know.\"",
+   "fix": "**Missed opportunity:** he said it, the talk moved to Mitchell, and it never came back.\n**Educate (Script):** \"And that's exactly why people use a smart website system as opposed to a traditional one. If you don't know your numbers you won't know how to scale.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "Yes",
+   "quote": "18:14 You: \"This drops into an email box?\"\nJosh: \"Yes, my email.\"",
+   "fix": "You told him why (\"About 2% of the population\") instead of asking.\n**Probe (Script):** \"Even if you had the best receptionist watching that inbox 24/7 and they are responding to that lead within 5 minutes or less. Most people aren't even going to respond to you. You know why?\" Then stop."
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "No",
+   "quote": "Never asked. 27:56 \"We don't usually miss the phone calls. We got three cell phones.\"\nHe thinks the phones are covered, and nothing you said changed that.",
+   "fix": "**Probe (Brandon's line):** \"What about after hours? What about when you're sleeping?\"\n**Acknowledge (Brandon's line):** \"Hey, look, man, that's awesome that you're on top of your phones. Those are our best partners.\"\n**Educate (Brandon's line):** \"The reason why most shops have this missed call text-back feature set up is because the automotive industry is a high-volume-based business. If you miss a call, the person traditionally ends up calling the next competitor. This is just to help you if anything slips through the cracks.\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "27:42 \"I don't know, between $500 and $1,000.\"",
+   "fix": "**Missed opportunity:** he gave you his number and the math never reached a figure.\n**Educate (Script):** \"You mentioned earlier your average order value is around $500. Okay. Most shops range from $500 to $5,000+ depending on the job. Now, if all we did was help you land one to two extra customers a month just from the Missed Call Text-Back, the leads we capture from the smart website, or the reviews you're still 3-4x on a $297 investment. Does that make sense?\""
+  },
+  {
+   "problem": "5. Review process",
+   "said": "Yes",
+   "quote": "His process is automated but pointed at SureCritic, not Google.\n11:47 \"a lot of the more recent reviews have been going to SureCritic because of how Mitchell responds.\"\n30:21 On Google reviews: \"that's probably where our weakest point is right now.\"",
+   "fix": "You said low reviews \"don't hit your profile\" (8:39) and \"it just never hits\" (12:12). Don't sell that.\n**Educate (Script):** \"Wherever you're storing your previous database, we take that list. And we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop.\"\n**On bad reviews (Q&A):** \"We help you get more reviews to push a bad one down.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "No",
+   "quote": "Never asked. Closest was 27:09: \"recently, everything has been, we're not in the top three.\"",
+   "fix": "**Probe (Script):** \"when was the last time you optimized this listing?\" Then stop.\n**If he has an answer (Script):** \"But what did they actually do to optimize it? That's the biggest thing.\""
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**8:25** \"does that mean you guys can actually move SureCritic and Carfax reviews... into Google?\"\n**16:44** \"if Google's the Bible, then SureCritic is the New Testament.\"",
+   "belief": "A review anywhere counts.",
+   "educated": "Partly",
+   "did": "\"Google is way more important than any other platform.\" Got \"That's where I go look.\" The week-over-week point didn't come until 32:04.",
+   "fix": "**Acknowledge:** agree to put the SureCritic reviews on the site, as you did.\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way. Does that make sense?\""
+  },
+  {
+   "said": "**9:18** \"Can your system, when we close an invoice, if it can link to Mitchell One, will send out a request to leave a Google review?\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"Yes, we can use an API,\" then \"I think what they've been preferring to do is once every couple of weeks,\" then \"ask on your onboarding call.\"",
+   "fix": "**Educate (Q&A):** \"The reactivation campaign is for previous customers; that's your quickest results. Current customers we automate.\"\nHow it connects to Mitchell 1 on invoice close has no approved answer in project knowledge. Get it before Wednesday."
+  },
+  {
+   "said": "**13:00** On APN Tech: \"Since we canceled that two months ago, I've noticed our ranking has dropped.\"",
+   "belief": "New business means more traffic.",
+   "educated": "Partly",
+   "did": "Called it \"an SEO package,\" then \"doing SEO and ads, we'd be lighting money on fire right now because we can't effectively convert.\" Got \"Yeah.\" Never asked what it cost or produced.",
+   "fix": "**Missed opportunity:** he named a vendor he paid and dropped.\n**Probe (Q&A):** \"What's your return on investment with it and without it?\"\n**Acknowledge (Q&A):** \"If you cancel, you're not in limbo land; people can still search you up.\"\n**Educate (Q&A):** \"You're only paying them for traffic, and you're paying for traffic you can't convert on.\""
+  },
+  {
+   "said": "**14:27** \"How many keywords are you going to use for us to come up?\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"That is a great question. I don't know the answer to that,\" then showed the service and area pages.",
+   "fix": "**Educate (Q&A):** \"Yes. Your site gets built around them. Every service page and every service area page targets what people in your area actually type, 'brake repair [city],' 'AC repair near me,' that kind of thing. We're not guessing, we're building pages for the searches that already exist.\""
+  },
+  {
+   "said": "**20:16** \"My concern with that system is now we have another system... I can send a text quote right from Mitchell. I don't need another system.\"",
+   "belief": "Another system means double work.",
+   "educated": "Partly",
+   "did": "\"You can move these leads into Mitchell and then engage with them there.\" Got \"Okay. Fair enough.\" He raised it again at 27:56.",
+   "fix": "**Educate (Q&A):** \"No, it's not a repair system, and it doesn't replace one. It sits in front of it. Our system captures the lead and starts the conversation; once you've got the job, it goes into whatever shop system you already use.\""
+  },
+  {
+   "said": "**27:56** \"if someone's taking the time to send an email, I will print it out, and I'll respond back.\"\n**29:09** \"I will build them a quote and respond back via text through Mitchell.\"",
+   "belief": "Replying to leads myself is good service.",
+   "educated": "No",
+   "did": "\"Cool. That's awesome. So you guys are way ahead of the curve.\"",
+   "fix": "**Missed opportunity:** he does by hand the exact thing the system does for him, and you praised it.\n**Educate (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\"\n**Then (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\"\n**Then (Script):** \"You can think of our system as if it's dancing with your prospect and then it's your job to come into the conversation and pick it up and close the deal.\""
+  },
+  {
+   "said": "**30:21** \"a lot of the things you showed, our website guy's doing, but I don't necessarily think it's working.\"",
+   "belief": "A website is a website.",
+   "educated": "No",
+   "did": "\"He's kind of looking at using some older coding,\" then AI searches.",
+   "fix": "**Missed opportunity:** he said his own site isn't working and you talked about code.\n**Probe (Brandon's line):** \"What you can't measure you can't what?\"\n**Educate (Q&A):** \"The real reason guys switch to a smart website system over a traditional one comes down to the sales process: tracking your lead flow and knowing your numbers so you can scale the smartest way possible.\""
+  },
+  {
+   "said": "**32:40** Lolo: \"Everybody was coming up, all the repair shops... except us, and they were all closed.\" \"We are in the middle of nowhere so we need advertisement done right.\"",
+   "belief": "New business means being seen by more people.",
+   "educated": "No",
+   "did": "\"Yeah, I hear you,\" then \"100%, 100%, and this system can actually help you do that.\"",
+   "fix": "**Missed opportunity:** you agreed with his diagnosis instead of turning it to capture.\n**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Brandon's line):** \"Most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\""
+  },
+  {
+   "said": "**About 38:00** Lolo, to a walk-in customer: \"when I search the shop, I can find it, but if I search for repairs...\" it shows \"everybody except us.\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"Had to get my boss to hop on my next meeting,\" then straight to price.",
+   "fix": "**Missed opportunity:** a first-time customer walked in on a family referral while he told her why he wants this.\n**Educate (Q&A):** \"Every person who walks through that door, whether you close them or not, should go into this same system. That's how you build a database you actually control. Walk-ins get tracked right alongside your online leads.\""
+  },
+  {
+   "said": "**42:01** \"Their price is cheaper... Theirs is $100 cheaper a month.\" \"It's a subset to add on\" to Mitchell 1.",
+   "belief": "A website is a website.",
+   "educated": "No",
+   "did": "\"Really? Okay, that's interesting.\" Asked him to share what Mitchell offers and booked Wednesday.",
+   "fix": "**Probe (Brandon's line):** \"Does it text the lead back in 30 seconds, or does the form sit in an inbox? How many leads did it produce last month?\"\n**Educate (Brandon's line):** \"Our system is built to capture, not just look cool. A lot of guys have come to us from Mitchell 1 because their websites looked decent but weren't built to convert.\"\n**If he still balks (Script):** \"No worries. We get you started with the foundation at $297 today. I'll mark your account so you're grandfathered in at this special. You're not risking anything. Let's get you started at $297. Onboarding tomorrow, morning or evening?\""
+  }
+ ]
+}
