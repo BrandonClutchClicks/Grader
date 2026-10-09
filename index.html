@@ -177,10 +177,10 @@ td .num { font-size: 22px; font-weight: 700 }
     if (g.flag) h += '<div class="flag">' + rich(g.flag) + "</div>";
     if (notes[g.id]) h += '<div class="private"><div class="eyebrow">Note to Brandon · only editors see this</div>' + rich(notes[g.id]) + "</div>";
 
-    h += "<section><h3>" + (g.closed ? "Why it closed, and what almost lost it" : "Why it didn't close") + '</h3><div class="lead">' + rich(g.why) + "</div></section>";
-    if (g.three && g.three.length) h += "<section><h3>" + (g.closed ? "Three things to tighten" : "Three things that would have closed it") + "</h3>" +
-      table(["What happened", "Say this next time", "Why it closes"], g.three.map(function (r) { return [rich(r.happened), rich(r.say), rich(r.why)]; }), ["", "say", ""]) + "</section>";
-    if (g.oneMore) h += '<section><h3>One more that cost you money</h3><div class="prose">' + rich(g.oneMore) + "</div></section>";
+    h += "<section><h3>" + (g.closed ? "Why it closed" : "What the owner still needed") + '</h3><div class="lead">' + rich(g.why) + "</div></section>";
+    if (g.three && g.three.length) h += "<section><h3>" + "Three lines to use next time" + "</h3>" +
+      table(["What happened", "Say this next time", "Why it works"], g.three.map(function (r) { return [rich(r.happened), rich(r.say), rich(r.why)]; }), ["", "say", ""]) + "</section>";
+    if (g.oneMore) h += '<section><h3>One more to add</h3><div class="prose">' + rich(g.oneMore) + "</div></section>";
     if (g.didWell && g.didWell.length) h += '<section><h3>What you did well</h3><ul class="well">' + g.didWell.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul></section>";
     if (g.followUp) h += '<section><h3>Follow-up</h3><div class="prose">' + rich(g.followUp) + "</div></section>";
 
