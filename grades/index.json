@@ -1,6 +1,15 @@
 [
  {
   "rep": "Ivan Rey",
+  "owner": "Jacob Case",
+  "shop": "The Mechanic (Concord, NC)",
+  "date": "2026-10-10",
+  "closed": false,
+  "id": "2026-10-10-ivan-rey-the-mechanic",
+  "problems": "2 of 6"
+ },
+ {
+  "rep": "Ivan Rey",
   "owner": "Jose Carrillo",
   "shop": "Jose Carrillo's auto body shop (Albany, CA)",
   "date": "2026-10-08",

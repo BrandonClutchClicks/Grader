@@ -1,0 +1,167 @@
+{
+ "rep": "Ivan Rey",
+ "owner": "Jacob Case",
+ "shop": "The Mechanic (Concord, NC)",
+ "date": "2026-10-10",
+ "closed": false,
+ "outcome": "Not closed. Jacob takes over the shop January 1 and wants to start December 1. Ivan to text example sites; follow-up \"mid November,\" no date set.",
+ "flag": "Recording note: at 17:42 Jacob said what he is paying for the business. Don't repeat it or share that clip.",
+ "why": "Jacob walked in sold and walked out with homework. He never heard the offer, a total, or \"which one?\", and nobody put a date on December 1. He also left thinking the plan is $400 a month in ads, when his real exposure is Eddie's customers leaving with Eddie and one advisor answering every call.",
+ "three": [
+  {
+   "happened": "**28:01** Jacob: \"Let's go ahead and start lining up a deposit to get all this going.\" A minute earlier: \"most definitely give y'all a chance.\"\nYou: \"Generally, people begin with this because we offer some discounts… I know it's a conversation for later on,\" then a mid-November follow-up with no date.",
+   "say": "**Missed opportunity:** he brought up paying before you did, and he never heard the offer.\n**Educate (Script, all in one go):** \"It's $297 a month for the smart website system. Everything you saw in the video, everything we talked about on this call. We do also offer the winning formula to go and rebuild your listing out the right way. Once you set this up once, you don't have to touch it for 5+ years. That's $500 one time. Now, there's a reason guys stay with us for over a year and we don't do contracts. It's because the system just works, and every month we track those three metrics I mentioned for you to understand your ROI. We're running a special right now. If you commit to a 3-month billing cycle up front two things happen. You get the winning formula where we go in and rebuild out your listing the right way for half off. $250 instead of $500. Two, you get our AI receptionist included.\"\nThen: \"Which one do you want to get started with?\"\nThen lock his date (Script question, his date): \"When would you be available for the onboarding call December 1st, in the morning or the evening?\"\nNo approved answer in project knowledge on taking payment before he owns the shop. Get that answer from Brandon before the follow-up.",
+   "why": "He told you \"any time that I don't have the phone ringing is money lost\" and that he doesn't want to be \"waiting for y'all for three weeks.\" He was asking for a date."
+  },
+  {
+   "happened": "**18:59** Jacob: \"When he leaves, a lot of people are going to go, where's Eddie? So, I'm going to lose some of his clients. It's natural. So, I'm going to have to replace them.\"\nYou: \"there's like 80-20s marketing. One of them is Google,\" then the Windermere story.",
+   "say": "**Missed opportunity:** this is his biggest fear, and the customer list he's buying is the answer.\n**Acknowledge (Q&A):** \"We work with guys who buy multiple shops, scale them up, and sell them to private equity. When they buy a shop, they inherit a list they know nothing about. They have no idea how the last owner treated those customers. They still run it, and it gets them two things: more reviews, and people coming back in for more business.\"\n**Educate (Script):** \"We take that list. And we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop.\"",
+   "why": "He gets Eddie's database December 1. Reactivating it is how Eddie's customers meet Jacob before they go looking for Eddie, and it's a reason to start in December, not wait."
+  },
+  {
+   "happened": "**~10:30** Jacob: \"What do I need to budget with y'all… I want to start this with the website and ads right off the get-go.\"\nYou (11:35, 12:38): \"with our $400 a month package will be good… $400, you'll dominate the market, honestly.\"",
+   "say": "**Probe (Script, no-website version):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Acknowledge (Q&A):** \"We run ads and have indepth SEO packages on the back end however we will never sell you on ads if you don't have your foundation set up.\"\n**Educate (Script):** \"Because before you ever spend a dollar on Google Ads or Facebook Ads, the most valuable asset you have is this right here — your listing. And you're already getting traffic to it. You're just not doing everything in your power to capture it.\"",
+   "why": "He told you at 18:23 that \"100% they find him on Google,\" and the website link on that listing is dead. The traffic is already there and nothing catches it. And we can't promise he'll \"dominate.\""
+  }
+ ],
+ "oneMore": "**17:35** Jacob: \"He has nothing. He's got one advisor up front and she's running everything as far as writing estimates, answering phones, scheduled appointments, and everything.\" The next question was what he paid for the business.\n**Say this (Script):** \"Naturally if you miss a call what usually happens?\" Stop and let him answer. Then: \"With our missed call text-back feature, It prevents that lead from calling your competitor. Immediately texting them If you missed that call so that they know that they're being serviced by your brand and/or business. Does that make sense? Can you see why shops have this set up?\"\nHe wants 50 cars a week through one advisor. That's the leak the money math belongs on.",
+ "didWell": [
+  "**26:28** \"we can just start, like, the website with what it is right now, and then update it. Like, we don't charge anything for updating things on the website\" got \"we can just launch with what we have, and then we can optimize it in January as we go.\"",
+  "**20:21** \"How much is the average ticket you're expecting to get?\" got \"I intend on an 850 to 1000 ARO,\" a real number for a shop he doesn't own yet."
+ ],
+ "followUp": "\"Mid November,\" no date. When you text the example sites, lock a day and a time. Open the call with: \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Then the offer and \"Which one do you want to get started with?\"",
+ "counts": {
+  "problems": "2 of 6",
+  "beliefs": "1 of 6",
+  "missed": "7"
+ },
+ "breakdownNote": "No setter handoff note was available for this grade. Speaker labels in this transcript are swapped in many places; lines are attributed by content.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Path set and agreed (\"Yep, yep\"). Decision maker gated: \"I'm the only one that makes decisions and has any equity.\"",
+   "fix": "None."
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "He hadn't played the text but had watched the video on the website. You offered to watch it again.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "No bridge question. The metrics started at 15:19 as \"two metrics\" and were told, not asked. The $400 ads price and the $500 listing price came out before the math at 21:27.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Jacob?\"\nWait for the yes, then first gear, then the three metrics with a question at each stop."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "You pointed at the missing description and services (12:05) and he agreed. Then it was called \"Google My Business Optimization\" with \"a $500 one-time charge\" before any teaching. No map pack, no geotagging.",
+   "fix": "**Script:** \"There is a winning formula to get your listing set up the right way to increase your chances of ranking higher on the map pack, outside of us getting you reviews on our $297/month package. Do you know what the map pack is?\"\nThen photos and geotagging, services with a live competitor, the description. Call it the winning formula. The price waits for the close."
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "7 to 10 days and all four things covered: photos, database, services, service areas. No onboarding time asked.",
+   "fix": "**Script (with his date):** \"When would you be available for the onboarding call December 1st, in the morning or the evening?\""
+  },
+  {
+   "stage": "6. Close",
+   "happened": "Never presented. At 28:01 Jacob said \"Let's go ahead and start lining up a deposit to get all this going\" and heard \"discounts\" and the AI receptionist as \"a conversation for later on.\"",
+   "fix": "**Missed opportunity:** he brought up paying before you did.\n**Educate (Script, all in one go):** \"It's $297 a month for the smart website system. Everything you saw in the video, everything we talked about on this call. We do also offer the winning formula to go and rebuild your listing out the right way. Once you set this up once, you don't have to touch it for 5+ years. That's $500 one time. Now, there's a reason guys stay with us for over a year and we don't do contracts. It's because the system just works, and every month we track those three metrics I mentioned for you to understand your ROI. We're running a special right now. If you commit to a 3-month billing cycle up front two things happen. You get the winning formula where we go in and rebuild out your listing the right way for half off. $250 instead of $500. Two, you get our AI receptionist included.\"\nThen: \"Which one do you want to get started with?\"\nThe receptionist only comes up here, inside the special."
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "Never asked what the listing produces. 0:33 on the dead website link: \"I'll fix it when I own it.\" 18:23 \"It's literally 100% they find him on Google.\"",
+   "fix": "**Missed opportunity:** everything comes from Google, the site link is dead, and the two were never tied together.\n**Educate (Script):** \"And that's exactly why people use a smart website system as opposed to a traditional one. If you don't know your numbers you won't know how to scale. With our system you're going to be able to log into the backend on desktop and/or mobile. And track exactly how many leads you're capturing on a month-to-month basis.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "No",
+   "quote": "Not asked. At 16:22 you told him leads get contacted right away and he said \"I like that.\"",
+   "fix": "**Educate (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\"\nThen show the Tareva lead and ask: \"Does that make sense? Can you see why shops have this set up?\""
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "No",
+   "quote": "17:35 \"He has nothing. He's got one advisor up front and she's running everything as far as writing estimates, answering phones, scheduled appointments, and everything.\" One question short of saying calls get missed.",
+   "fix": "**Missed opportunity:** the next question was the purchase price.\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\"\n**Educate (Script):** \"If you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree?\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "21:21 \"So I intend on an 850 to 1000 ARO.\"",
+   "fix": "The math at 21:27 used $800, wasn't cut, and came after the prices.\n**Educate (Script, his number cut in half):** \"You mentioned earlier your average order value is $850 to $1,000. Let's be conservative and call it $425. Now if all we did was save you one missed call every 2 weeks you would still be about 3x on a $297 investment. That doesn't include the smart website we build for you, the leads we capture, or the reviews we help you get.\""
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "No",
+   "quote": "Not asked. At 16:00 you said \"the good reviews get shown in your profile, the bad reviews don't get shown.\"",
+   "fix": "**Probe (Script):** \"How are you getting reviews at the moment?\" Ask it about Eddie's shop.\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself.\"\nNever say bad reviews don't get shown. **Q&A:** \"We help you get more reviews to push a bad one down.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "Yes",
+   "quote": "12:17 on no description and no services listed: \"Correct. It's terrible. It's horrendous.\"",
+   "fix": "He said it. The picture was missing.\n**Educate (Script, realtor line):** \"There's a winning formula to building these listings out the right way. Think about selling a house you hire an agent. If you hire the wrong agent who doesn't have the formula to list it correctly, what happens? It sits. Google listings work exactly the same way.\""
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**2:55** \"I see that majority of it looked like it was AI based… doing Google Ads, doing some social media it look like, do y'all do any physical flyers?\"",
+   "belief": "This is a marketing company that runs ads and social media.",
+   "educated": "No",
+   "did": "\"Generally we just help you more with SEO, like Google,\" then offered to ask about flyers.",
+   "fix": "Never call it SEO.\n**Educate (Q&A):** \"We set up the foundations of your marketing: a website that captures leads, missed-call text-back, and a review system, with a CRM on the back end where you and your team track every lead. Right now, are you doing any paid ads?\""
+  },
+  {
+   "said": "**4:17** \"I did a lot of mailers… So it's foreshadowing the need.\" **6:05** \"I view both of those equally as important.\"",
+   "belief": "People have to know your name before they need you, so mailers and ads come first.",
+   "educated": "No",
+   "did": "\"This is like the best call I ever had,\" then the private equity goal.",
+   "fix": "No approved answer on flyers in project knowledge.\n**Acknowledge (Q&A, said about Facebook ads):** \"Anyone who sees your Facebook ad looks you up on Google before they call.\"\n**Educate (Brandon's line):** \"That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\""
+  },
+  {
+   "said": "**6:57** \"What is y'all's setup cost? I understand the monthly fee is $297, I presume that there's the pay-per-click ads is going to be an additional cost.\"",
+   "belief": "",
+   "educated": "",
+   "did": "Answered the $297 right, then: \"Our ads packages begin in $400 a month.\"",
+   "fix": "**Educate (Q&A):** \"It covers the website, your hosting, and all of the AI automations we build for you. Everything you saw in the video. $297 a month, no contract. We track three metrics every single month to help you understand your ROI.\"\nLeave the ads price out."
+  },
+  {
+   "said": "**7:59** \"The lowest one's like a 4.7 star. The majority of them are 4.9 or 5 stars. What information do I need to get to be able to keep those…? Is there a way to migrate his Google profile?\"",
+   "belief": "The star rating is the asset. Keep it and the listing is handled.",
+   "educated": "No",
+   "did": "Explained the ownership transfer and offered to go to Google support.",
+   "fix": "No approved answer in project knowledge on moving a Google profile to a new owner.\n**Missed opportunity:** he put the listing on the table at minute 8.\n**Probe (Script):** \"When was the last time you optimized this listing?\" Then: \"But what did they actually do to optimize it? That's the biggest thing.\""
+  },
+  {
+   "said": "**~10:30** \"What do I need to budget with y'all… I want to start this with the website and ads right off the get-go.\"",
+   "belief": "New business means paid ads.",
+   "educated": "No",
+   "did": "At 7:45 \"it would be just burning money\" got a \"Yeah.\" Then 12:38: \"$400, you'll dominate the market, honestly.\" That agrees with the ads plan and promises a result.",
+   "fix": "**Probe (Script, no-website version):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Acknowledge (Q&A):** \"We run ads and have indepth SEO packages on the back end however we will never sell you on ads if you don't have your foundation set up.\"\n**Educate (Script):** \"Because before you ever spend a dollar on Google Ads or Facebook Ads, the most valuable asset you have is this right here — your listing. And you're already getting traffic to it. You're just not doing everything in your power to capture it.\""
+  },
+  {
+   "said": "**12:51** \"I don't want ads to be geared towards oil changes… I can do a set of $800 breaks in that same hour.\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"Yeah, it's a higher ROI,\" then searched brakes in Concord and Charlotte.",
+   "fix": "**Missed opportunity:** a number of his that never made the math.\n**Educate (Q&A):** \"Every service page and every service area page targets what people in your area actually type, 'brake repair [city],' 'AC repair near me,' that kind of thing. We're not guessing, we're building pages for the searches that already exist.\""
+  },
+  {
+   "said": "**18:59** \"When he leaves, a lot of people are going to go, where's Eddie? So, I'm going to lose some of his clients. It's natural. So, I'm going to have to replace them.\"",
+   "belief": "The customers belong to Eddie, not the shop.",
+   "educated": "No",
+   "did": "\"There's like 80-20s marketing. One of them is Google,\" then the Windermere story.",
+   "fix": "**Missed opportunity:** this is his biggest fear, and the customer list he's buying is the answer.\n**Acknowledge (Q&A):** \"We work with guys who buy multiple shops, scale them up, and sell them to private equity. When they buy a shop, they inherit a list they know nothing about. They have no idea how the last owner treated those customers. They still run it, and it gets them two things: more reviews, and people coming back in for more business.\"\n**Educate (Script):** \"We take that list. And we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop.\""
+  },
+  {
+   "said": "**26:46** \"We can just launch with what we have, and then we can optimize it in January as we go.\" Then: \"it's just going to be a waiting a couple months until December 1st.\"",
+   "belief": "Nothing can start until I own it and the remodel is done.",
+   "educated": "Yes",
+   "did": "Got the yes on starting early, then agreed to send five or six example sites and wait.",
+   "fix": "**Missed opportunity:** he agreed to start with what he has, and the next step became homework.\n**Educate (Q&A):** \"We get you checked out today, schedule the onboarding call for tomorrow, then your launch call 7-10 days after onboarding.\" For Jacob the onboarding date is December 1, when he gets the email and the database."
+  }
+ ]
+}
