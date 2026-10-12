@@ -1,0 +1,173 @@
+{
+ "rep": "Todd Cowie",
+ "owner": "Juan Curiel",
+ "shop": "Car Aid Collision (Dalton, GA)",
+ "date": "2026-10-12",
+ "closed": false,
+ "outcome": "Not closed. Juan wants to talk to his wife and his team. Follow-up booked for Tuesday Oct 13 at 10:00 Central. Todd to send example links and how cancelling works.",
+ "why": "Juan liked it and had the card on the desk. What he hadn't heard was a small, safe way to say yes: he paid $7,000 to get out of his last marketing contract, asked four times about fees and surprises, and then heard \"891 quarterly\" and a six-month prepaid. His wife, \"the one that has the checkbook,\" wasn't on the call.",
+ "three": [
+  {
+   "happened": "**34:00** Juan: \"my wife, the one that has the checkbook is not today.\" **35:47** \"I like to talk to about things with my wife, and I want to talk to my team.\"\nYou: \"guess how many people I hear back from, I've got to think about it. Like 2%,\" then a six-month prepaid at $1,782.",
+   "say": "**Acknowledge + Educate (Script, the downsell):** \"No worries. We get you started with the foundation at $297 today. Here's what I'll do — I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle specifically built for your brand. It doesn't expire on you. You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\"",
+   "why": "He was burned by a contract and said the card was handy. $297 with no contract is the smallest yes he could give today, and the special stays his when his wife agrees to the three months."
+  },
+  {
+   "happened": "**28:10** Juan: \"is there anything in writing… that says that, you know, we're not going to be up charge… we don't want to have surprises down the road.\" That was the fourth time he asked (11:02, 14:34, 15:41).\nYou: \"we have not adjusted our pricing in two years,\" then straight into the prices.",
+   "say": "**Acknowledge (Q&A):** \"Then I'd be skeptical of me too.\"\n**Educate (Q&A):** \"No contract, so we have to earn it every month. No ads on the front end. And we track three numbers you can look at any time: leads captured from the traffic you're already getting, missed calls saved, and reviews earned.\"\n**Then (Q&A):** \"If you ever said, 'Brandon, your service sucks, we're not seeing an ROI,' you keep the site and all your lead data just not the AI automations or system on the backend.\"\nNo approved answer in project knowledge on putting terms in writing. Get that from Brandon before tomorrow's call.",
+   "why": "Leaving Hibu cost him $7,000 and his domain. He kept asking because he needed to hear what he keeps if he walks, not that prices haven't gone up."
+  },
+  {
+   "happened": "**19:59** Juan: \"sometimes they leave voicemails, but we have so many phone calls that we just can't return them.\"\nYou: \"Okay, so that's fair enough. What's your average ticket size right now?\" Then the math on \"$4,600,\" halved to $2,300. He said $3,600.",
+   "say": "**Missed opportunity:** he told you real callers go unanswered, and you said \"fair enough.\"\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\" Stop.\n**Educate (Script):** \"If you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree?\"\n**Then his number, cut in half (Q&A):** \"If we saved you one missed call a month, not a week, one a month, that's an extra $1,800 on a $297 product. And that's one feature.\"",
+   "why": "This is his biggest leak in his own words: voicemails nobody returns at $3,600 a job. One saved call a month is 6x, and it's the number to bring back at the close."
+  }
+ ],
+ "oneMore": "**30:06** You: \"a whopping today payment of 1141 and then 891 quarterly following.\" At 33:13 Juan: \"So it's $11.41 for three months?\" and \"the $2.50, it's to optimize my website?\" (he means $1,141 and $250).\n**Say this (Q&A):** \"Two things. The website is $297 a month. Fixing up your Google listing is a one-time $500; we do it once and you don't touch it for years. Right now, if you pay three months up front, the listing is half off, $250. So today is $891 plus $250, $1,141, and then $297 a month starting month four. Or one month plus the listing is $797. Which one do you want to start with?\"\nAfter the three months it's $297 a month. \"Quarterly\" sounds like a contract to an owner who just paid to get out of one.",
+ "didWell": [
+  "**9:24** \"What happens if this comes in after hours or when you're not around?\" got \"It's until next day that we look into it.\"",
+  "**19:58** \"And if you do miss a call, is it a voicemail?\" got \"we have so many phone calls that we just can't return them\" from an owner who had just said three people answer the phones."
+ ],
+ "followUp": "Tuesday Oct 13, 10:00 Central. Open with: \"Is there anyone else that needs to be on this call?\" and get his wife on. Then his own words on the voicemails and the estimates, then: \"We get you started with the foundation at $297 today… Onboarding tomorrow, morning or evening?\"",
+ "counts": {
+  "problems": "3 of 6",
+  "beliefs": "0 of 7",
+  "missed": "7"
+ },
+ "breakdownNote": "No setter handoff note was available for this grade. Speaker labels in this transcript are swapped in many places; lines are attributed by content.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Path set and agreed. You asked who else should be on (\"Wives?\") and heard \"I got the whole crew there.\" At 34:00 his wife wasn't. The second shop in Ringgold only came out at 16:04.",
+   "fix": "**Script:** \"I know we're going to be talking about [SHOP NAME]. Is that the only shop you run, or do you run multiple?\"\nTomorrow, ask the gate again first: \"Is there anyone else that needs to be on this call? Maybe a co-founder, a partner, anything like that?\""
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "Not watched. Screen shared and the video played before any questions.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "Good digging on his website questions. Then no bridge question and no first gear before the metrics, and the first metric was a statement he agreed to (\"you can't track the leads… Is that correct?\"), not a question.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Juan?\"\nWait for the yes, then first gear, then: \"Do you know how many leads you're capturing from your website right now?\" and stop."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "Asked when it was last optimized, showed the map pack on a live search, then photos, services, description, and called it the winning formula. At 26:14: \"I can see you further up in the map pack within 30 days.\"",
+   "fix": "Never put a date on a result.\n**Script wording:** \"increase your chances of ranking higher on the map pack.\"\nAfter each of the three findings: \"Does that make sense?\""
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "7 to 10 days came up at 18:17 and was dropped. The four things were never listed and no onboarding time was asked before the price.",
+   "fix": "**Script:** \"On that onboarding call we need four things from you. Do you have photos of your best work? The 2nd thing we need is your customer database and whoever you want reactivated. The 3rd thing we need from you is a list of services. The 4th thing we are going need from you is a list of your service areas. When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
+  },
+  {
+   "stage": "6. Close",
+   "happened": "$297, $500, why guys stay, the special as two things and the clip, in order. Then \"891 quarterly following,\" \"Google Optimization,\" a tangle of $497, $797 and $997, and no \"which one.\" It ended on a six-month prepaid at $1,782, which is not an offer in project knowledge.",
+   "fix": "**Q&A, the special in one clean pass:** \"Two things. The website is $297 a month. Fixing up your Google listing is a one-time $500; we do it once and you don't touch it for years. Right now, if you pay three months up front, the listing is half off, $250. So today is $891 plus $250, $1,141, and then $297 a month starting month four. Or one month plus the listing is $797. Which one do you want to start with?\"\nCall it the winning formula, never \"optimization.\" Two options only."
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "9:04 on form leads in the last 30 days: \"Few, very few. Maybe two or three.\" At 18:47 he agreed (\"That is correct\") when told he can't track leads. He didn't say it himself.",
+   "fix": "**Missed opportunity:** two or three leads a month from a shop with over 200 reviews, and the number was never used.\n**Probe (Script):** \"Do you know how many leads you're capturing from your website right now?\" Stop.\n**Educate (Q&A):** \"Shops we work with that have 100 to 200 Google reviews are pulling 15 to 20 plus leads a month on the $297 program, organic only, no paid media. That's traffic you're already getting. You're just not catching it.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "Yes",
+   "quote": "9:04 \"it goes directly to my cell phone.\" 9:21 \"It's a text.\" 9:33 \"It's until next day that we look into it.\"",
+   "fix": "**Missed opportunity:** at 9:24 you said \"Well, that's good. So that's kind of ahead.\" Texting leads back by hand is the leak, not a head start.\n**Acknowledge (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\"\n**Educate (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\""
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "Yes",
+   "quote": "19:59 \"sometimes they leave voicemails, but we have so many phone calls that we just can't return them.\"",
+   "fix": "**Missed opportunity:** he told you real callers go unanswered, and you said \"fair enough.\"\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\" Stop.\n**Educate (Script):** \"If you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree?\"\n**Then his number, cut in half (Q&A):** \"If we saved you one missed call a month, not a week, one a month, that's an extra $1,800 on a $297 product. And that's one feature.\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "19:59 \"I would say probably about $3,600.\"",
+   "fix": "You said \"$4,600\" and halved it to $2,300. His number is $3,600 and half is $1,800.\n**Script:** \"You mentioned earlier your average order value is $3,600.\" Say you're being conservative, cut it to $1,800, and use that number every time."
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "No",
+   "quote": "Not asked. 16:04 \"We have a really good reputation. We have worked very hard for that.\" 27:25 \"we have over 200 reviews.\"",
+   "fix": "**Probe (Script):** \"How are you getting reviews at the moment?\" Stop. \"Worked very hard\" usually means by hand.\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself.\"\nAt 21:36 you said low reviews \"just don't land.\" Never say that. **Q&A:** \"We help you get more reviews to push a bad one down.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "No",
+   "quote": "22:09 \"Probably last year. Yeah, probably March, April of last year.\"\nYou: \"Okay, fair enough.\" At 33:40 he asked what the $250 was for: \"What does that mean?\"",
+   "fix": "**Missed opportunity:** he gave an answer and it wasn't pushed.\n**Probe (Script):** \"But what did they actually do to optimize it? That's the biggest thing.\"\n**Educate (Script, realtor line):** \"Think about selling a house you hire an agent. If you hire the wrong agent who doesn't have the formula to list it correctly, what happens? It sits. Google listings work exactly the same way.\""
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**8:18** \"I already have a website that allows people to contact us and stuff.\" **9:53** \"We built it last year.\"",
+   "belief": "A website is a website.",
+   "educated": "Partly",
+   "did": "Found the next-day gap, then guessed the site was \"a few years old at least\" and showed ours as faster.",
+   "fix": "**Probe (Q&A):** \"When's the last time you actually worked on your site?\" Ask, don't guess.\n**Educate (Q&A):** \"Part of the $297 is a full rebuild of your website. But the real reason guys switch to a smart website system over a traditional one comes down to the sales process: tracking your lead flow and knowing your numbers so you can scale the smartest way possible.\""
+  },
+  {
+   "said": "**11:27** \"It took me about $7,000 to get rid of them because they took possession of my website, of my domain.\" **15:41** Stephanie: \"you don't have to pay anything else, you know, unlock this…?\"",
+   "belief": "Marketing companies lock you in and the bill keeps growing.",
+   "educated": "Partly",
+   "did": "No contracts, he owns the domain and takes the site. Then, right after her question about extra charges, you brought up ads and \"more advanced SEO\" for later.",
+   "fix": "**Educate (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI: leads captured from the traffic you're already getting, missed calls saved, reviews earned.\"\nLeave ads and SEO out when the question is about extra charges."
+  },
+  {
+   "said": "**12:49** \"They say that every time you change the website or you do something, then you start from the bottom up again.\"",
+   "belief": "A new website sends you back to the bottom of Google.",
+   "educated": "Partly",
+   "did": "\"That's absolute nonsense… You will not change position.\"",
+   "fix": "Don't tell him he's wrong, and don't promise a position.\n**Acknowledge (Q&A):** \"That's a common mix-up. Your website and your Google listing are two different assets, and Google ranks them separately.\"\n**Educate (Q&A):** \"Whatever domain you have, we point it to the new site we build you.\""
+  },
+  {
+   "said": "**16:04** \"Where can we improve?… where do you see us that we can improve and maybe even compete with these big chains without the big ticket?\"",
+   "belief": "Competing with the chains takes a big ad budget.",
+   "educated": "Partly",
+   "did": "\"You're probably getting organic traffic that you're not capturing,\" two sentences, then on to setup. At 26:14 you said he doesn't need to spend with Google and he said \"I see.\"",
+   "fix": "**Missed opportunity:** he asked you to diagnose his shop.\n**Educate (Brandon's line):** \"Most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\"\nThen: \"Does that make sense?\""
+  },
+  {
+   "said": "**19:43** \"We have two, three people answering phones. We try to be on top of that.\"",
+   "belief": "We answer our phones, so calls are covered.",
+   "educated": "Partly",
+   "did": "Probed with \"is it a voicemail?\" and got the leak. No credit given first.",
+   "fix": "**Acknowledge (Brandon's line):** \"Hey, look, man, that's awesome that you're on top of your phones. Those are our best partners.\""
+  },
+  {
+   "said": "**26:14** \"I noticed they have the schedule and we don't.\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"Very few people will schedule without speaking to you first… People just pray and wait.\" That's the approved answer.",
+   "fix": "None. Finish it the way the Q&A does: \"Bringing a new lead into your shop happens through a conversation, a call, a text, an email. Would you agree?\""
+  },
+  {
+   "said": "**27:25** \"We have over 200 reviews. We'll be able to keep all of our reviews with your new website?\"",
+   "belief": "More reviews is the goal.",
+   "educated": "Partly",
+   "did": "\"Reviews don't change. All we're going to do is be pointing your domain at your new website.\" Right answer.",
+   "fix": "**Missed opportunity:** say the 200 back to him.\n**Educate (Script):** \"You're already getting traffic to it. You're just not doing everything in your power to capture it.\""
+  },
+  {
+   "said": "**34:00** \"We got a ton of estimates. We just don't follow up to them. So that's also another leak.\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"We can activate those customers and automate a campaign to start doing follow-ups for you.\" He said \"that's something that I'm really interested on.\"",
+   "fix": "**Educate (Q&A):** \"Every person who walks through that door, whether you close them or not, should go into this same system. That's how you build a database you actually control, and that's how you turn one visit into years of repeat business.\""
+  },
+  {
+   "said": "**35:47** \"I like to talk to about things with my wife, and I want to talk to my team… we're not going to do it for two months or three… this probably will do it as a year.\"",
+   "belief": "Saying yes means a long commitment, so it has to wait for my wife.",
+   "educated": "No",
+   "did": "\"Like 2%\" hear back, then a six-month prepaid at $1,782.",
+   "fix": "**Missed opportunity:** he said he's the kind of owner who stays a year, and the card was handy.\n**Acknowledge + Educate (Script, the downsell):** \"No worries. We get you started with the foundation at $297 today. Here's what I'll do — I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle specifically built for your brand. It doesn't expire on you. You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\""
+  }
+ ]
+}
