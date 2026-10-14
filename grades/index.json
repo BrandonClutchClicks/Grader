@@ -1,12 +1,12 @@
 [
  {
   "rep": "Todd Cowie",
-  "owner": "Eray Erga",
-  "shop": "West Hills Car Care (NY)",
+  "owner": "Eray Ergal",
+  "shop": "West Hills Complete Car Care (Huntington, NY)",
   "date": "2026-10-14",
-  "closed": true,
+  "closed": false,
   "id": "2026-10-14-todd-cowie-west-hills-car-care",
-  "problems": "1 of 6",
+  "problems": "2 of 6",
   "fathom_recording_id": 192636237
  },
  {

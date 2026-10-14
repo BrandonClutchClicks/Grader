@@ -1,122 +1,146 @@
 {
  "rep": "Todd Cowie",
- "owner": "Eray Erga",
- "shop": "West Hills Car Care (NY)",
+ "owner": "Eray Ergal",
+ "shop": "West Hills Complete Car Care (Huntington, NY)",
  "date": "2026-10-14",
- "closed": true,
- "outcome": "Closed at $297 a month. His card failed on the call; Todd emailed the checkout link.",
- "flag": "Recording note: at about 31:50 Eray read his card number, expiration and security code aloud. Trim that section before anyone else hears it. Only Eray's side of this call was recorded; Todd's audio is missing except the video, so most of this grade can't be filled in.",
- "why": "Why it closed: Eray came in already sold on the plan. He read the price page back, asked what happens if he cancels, chose the basic plan \"financially,\" and started paying before the call ended.",
+ "closed": false,
+ "outcome": "Verbal yes at $297 a month. His card declined twice on the call; Eray is paying with his partner's card today. Todd to watch for the notification and call back in three to four hours if it doesn't come. Onboarding tomorrow afternoon once it clears.",
+ "flag": "Recording note: Eray's card number, expiration and security code were read aloud at 34:39 to 35:38, and a second card's numbers at 37:24 to 37:39. Trim both sections before anyone else hears this call.",
+ "why": "Why it said yes: Eray came in sold. He read the price page back line by line, asked what happens when he cancels, and chose the $297 on money. Why it wasn't the $1,141: at 14:21 he told you his own window is \"three months, four months down the line,\" which is the three-month special in his words, and he heard \"thirty days\" instead. Then the card.",
  "three": [
   {
-   "happened": "**~31:50** Eray read his card number aloud, twice, and it was declined.\nWhat you said back isn't on the recording. The Fathom summary says you emailed the link.",
-   "say": "**Say this (Script):** send the checkout link before any numbers come out. \"I'm going to text you the checkout link right now. Fill it out on your end and I'll stay on while it goes through.\"",
-   "why": "A card read over a recorded call has to be scrubbed, and a declined card read twice is how a hot buyer cools off."
+   "happened": "**14:21** Eray: \"three months, four months down the line, I should expect something happening, hopefully.\"\nYou: \"You should expect some things to start happening within the first thirty days.\"",
+   "say": "**Educate (Script, why three months):** \"Because it's $297 a month. You're not going to change your business overnight for $297. Month one we build everything and start reactivating your list. You'll see reviews coming in and, depending on how strong your listing already is, your first leads. Month two it's running. Month three is when you can actually look at the numbers and see what it's doing. Three months is a fair shot. Anything less and you're judging it before it's had a chance to work. And for giving it that shot, you get the listing at half off and the AI receptionist built specifically for your business, free. Still no contract — cancel any time after.\"",
+   "why": "He set the three-month window himself. That line turns his own timeline into the reason to prepay it, and it never promises a date."
   },
   {
-   "happened": "**~10:00** Eray: \"three months, four months down the line, I should expect something happening, hopefully… the payment remains the same, okay, and if… I want to leave… I call you, hey Todd… let me just cancel.\"\nYour answer isn't on the recording.",
-   "say": "**Educate (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI: leads captured from the traffic you're already getting, missed calls saved, reviews earned.\"",
-   "why": "He's picturing month four. The three numbers are what he'll check in month four."
+   "happened": "**34:37** You: \"I'm ready for your card, Eray, when you're ready.\" He read the full card aloud; it declined. You read it back to him. It declined again on the link with a second card.",
+   "say": "**Say this (Script):** the checkout link, every time. \"I'm going to send the checkout link to your email right now. Fill it in on your end and I'll stay on the line while it goes through.\"\nNo card numbers over a recorded call, and never read one back.",
+   "why": "A card read over the phone has to be scrubbed from the recording, and two declines in a row is how a buyer who already said yes walks off with \"I'll get this done today.\""
   },
   {
-   "happened": "**~26:00** Eray: \"Or I can simply stick with the basic… that's a little bit better in my case, just, you know, financially.\"",
-   "say": "**Acknowledge + Educate (Script, the downsell):** \"No worries. We get you started with the foundation at $297 today. I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle. It doesn't expire on you.\"",
-   "why": "He chose the basic on money. Grandfathering keeps the $250 listing alive for the launch call."
+   "happened": "**21:56** You: \"you had 22 reviews now. And how long have you been in business for?\" Eray: \"Six years. Five years.\"\nYou: \"This number should be a lot higher.\" He was never asked how he gets reviews.",
+   "say": "**Missed opportunity:** 22 reviews in six years is Metric 3 in one number, and he never got asked how he gets them.\n**Probe (Script):** \"How are you getting reviews at the moment?\" Stop.\n**Probe (Script):** \"When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\"\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way. Does that make sense?\"",
+   "why": "Twenty-two reviews in six years is the leak that pays for the listing fix. If he says \"we don't ask\" out loud, the $250 winning formula is his idea, not yours."
   }
  ],
- "oneMore": "**~29:00** Eray: \"the hosting services has to be provided by me, right?… We gotta get a new domain name.\"\n**Say this (Q&A):** \"We take care of the hosting… If you don't have access to this domain, we help you get a new domain and usually that's just an additional $5 to $10.\"",
- "didWell": [],
- "followUp": "Onboarding. Confirm the $297 went through on the emailed link, then the four things: photos, his old CCC1 list (he said it hasn't been updated in a year), services, service areas. Mark his account for the grandfathered special.",
+ "oneMore": "**15:54** You: \"We're a full marketing agency. So we'll talk to you about Google Ads. We'll talk to you about advanced SEO.\"\n**Say this instead (Q&A):** \"Think of it as turning your website into a smart AI receptionist. We set up the foundations of your marketing: a website that captures leads, missed-call text-back, and a review system, with a CRM on the back end where you and your team track every lead.\"\nNever an agency, never SEO on the front end.",
+ "didWell": [
+  "**05:26** \"Do they need to be part of this conversation? Are they a decision maker?\" got \"I'll make the decision.\"",
+  "**30:20** \"I can start you on the $297 right now, and I will note on your account and leave that other one\" got \"That's a little bit better in my case… Financially,\" and a yes."
+ ],
+ "followUp": "If the payment notification doesn't land in three to four hours, call him. Open with: \"Did your partner's card go through? Let's get it done while we're on so I can lock your onboarding for tomorrow afternoon.\" Send the link again on the call. His account should be marked for the grandfathered special.",
  "counts": {
-  "problems": "1 of 6",
-  "beliefs": "0 of 2",
-  "missed": "0 that can be heard"
+  "problems": "2 of 6",
+  "beliefs": "0 of 3",
+  "missed": "6"
  },
- "breakdownNote": "Only Eray's audio was captured. No setter handoff note was available.",
+ "breakdownNote": "Graded from the GoHighLevel transcript; the Fathom recording only caught Eray's side. No speaker labels in the transcript, so lines are attributed by content. No setter handoff note was available.",
  "stages": [
   {
    "stage": "1. Intro + Frame",
-   "happened": "Not on the recording. Eray: \"My partner would around, but they'll make it. Oh I'll make the decision.\" Decision maker confirmed.",
-   "fix": "Can't be graded from this recording."
+   "happened": "Path set and agreed. Decision maker gated twice: \"Are they a decision maker?\" got \"I'll make the decision.\"",
+   "fix": "None."
   },
   {
    "stage": "2. Video Check",
-   "happened": "Video played in full before any questions.",
+   "happened": "Not watched. Screen shared and the video played before any questions.",
    "fix": "None."
   },
   {
    "stage": "3. Product Value",
-   "happened": "Eray's answers only: \"every other day, probably one or two,\" \"I did about 15 and another 15 this month,\" \"September was two, it was three this month,\" CCC1 subscription ended a year ago. Your questions aren't audible.",
-   "fix": "Can't be graded from this recording."
+   "happened": "He read the price page back and asked about cancelling. You answered no contract, keep the website (right), then \"We're a full marketing agency\" and a 30-day result. No bridge question. Half of first gear came out unprompted (\"lighting money on fire\") with no \"does that make sense.\" The money math at 21:25 was clean: $2,500, one a month, before any price.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Eray?\"\nWait for the yes, then first gear word for word, then \"Does that make sense?\", then the three metrics."
   },
   {
    "stage": "4. GMB Upsell",
-   "happened": "Eray: \"so that was a part of the optimization, GMB optimization offer, okay.\" He heard \"optimization,\" not \"the winning formula.\"",
-   "fix": "**Script:** call it the winning formula, never \"an optimization.\""
+   "happened": "Map pack explained on a live search of \"auto body shop in Huntington.\" Photos and geotagging, services with a live competitor, description, in order, and called the winning formula. \"When was the last time you optimized this listing?\" was never asked, and \"did you write this?\" didn't wait for an answer.",
+   "fix": "**Script:** \"When was the last time you optimized this listing?\" Stop. If he has an answer: \"But what did they actually do to optimize it? That's the biggest thing.\"\nAfter each finding: \"Does that make sense?\""
   },
   {
    "stage": "5. Transition",
-   "happened": "Not audible.",
-   "fix": "Can't be graded from this recording."
+   "happened": "16:36 \"seven to ten days… four things, which I'll talk to about in just a second.\" The four things never came. \"Tomorrow morning?\" came at 39:35, after the card.",
+   "fix": "**Script:** \"On that onboarding call we need four things from you. Do you have photos of your best work? The 2nd thing we need is your customer database and whoever you want reactivated. The 3rd thing we need from you is a list of services. The 4th thing we are going need from you is a list of your service areas. When would you be available for the onboarding call tomorrow, in the morning or the evening?\" Before the price."
   },
   {
    "stage": "6. Close",
-   "happened": "Eray read both options back correctly and chose $297. Then the card number aloud, twice, declined, link emailed.",
-   "fix": "**Script:** the fix is the checkout link. Never take a card number on the call."
+   "happened": "$297, the winning formula at $500, why guys stay, the special as two things, the clip, \"which one.\" He asked what the $250 was and you cleared it up. He chose the basic and you grandfathered the special. Then \"I'm ready for your card.\"",
+   "fix": "**Missed opportunity:** at 14:21 he had already said \"three months, four months.\"\n**Educate (Script, why three months):** \"Because it's $297 a month. You're not going to change your business overnight for $297. Month one we build everything and start reactivating your list. You'll see reviews coming in and, depending on how strong your listing already is, your first leads. Month two it's running. Month three is when you can actually look at the numbers and see what it's doing. Three months is a fair shot. Anything less and you're judging it before it's had a chance to work. And for giving it that shot, you get the listing at half off and the AI receptionist built specifically for your business, free. Still no contract — cancel any time after.\"\nThen the checkout link, never a card over the phone."
   }
  ],
  "scoreboard": [
   {
    "problem": "1. Doesn't know website leads",
-   "said": "No",
-   "quote": "Not audible.",
-   "fix": "Can't be graded from this recording."
+   "said": "Yes",
+   "quote": "17:36 \"I don't\" [have a website]. Nothing captures a lead today. 17:47 \"we're not\" was you, not him.",
+   "fix": "**Missed opportunity:** he has no website, and the tracking question got answered for him (\"we're not\").\n**Probe (Script, no website):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Script):** \"Because before you ever spend a dollar on Google Ads or Facebook Ads, the most valuable asset you have is this right here — your listing. And you're already getting traffic to it. You're just not doing everything in your power to capture it.\""
   },
   {
    "problem": "2. Form goes to an inbox",
    "said": "No",
-   "quote": "Not audible.",
-   "fix": "Can't be graded from this recording."
+   "quote": "No website, so no form. Not a leak to probe on this call.",
+   "fix": "None. The praying-and-waiting line still belongs in the Tareva demo: \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\""
   },
   {
    "problem": "3. Misses calls",
-   "said": "No",
-   "quote": "Not audible. \"every other day, probably one or two\" may be this; your question is missing.",
-   "fix": "Can't be graded from this recording."
+   "said": "Yes",
+   "quote": "18:42 \"Oh, yeah. Sure.\"",
+   "fix": "You told him what happens (\"that's out the door\").\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\" Stop and let him say it.\n**Educate (Script):** \"If you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree?\""
   },
   {
    "problem": "4. Average ticket",
-   "said": "Yes",
-   "quote": "~15:30 \"September was two, it was three this month, I'll say.\" Read as $2,000 to $3,000; your question is missing.",
-   "fix": "**Script:** halve it, say you're being conservative, and run the math before the price."
+   "said": "Partly",
+   "quote": "19:16 \"I did about 15 and another 15 this month… September was two… And three in this month.\" You: \"So your average ticket's, like, $5[,000]. Is that fair to say?\" Eray: \"Yeah.\"",
+   "fix": "The number was yours. He was describing $15K months on two or three cars.\n**Probe (Script):** \"If I were to ask you, for anyone that walks through your doors today, what would you say your average ticket size is?\" Stop. If he gives months and cars, ask: \"So on one car, what's the invoice?\" and use his answer."
   },
   {
    "problem": "5. Review process is manual",
    "said": "No",
-   "quote": "~19:50 \"for the last year, it hasn't been updated because I ended the subscription.\" That's his database, not his review process.",
-   "fix": "Can't be graded from this recording."
+   "quote": "Never asked. 21:56 22 reviews, \"Six years. Five years.\" 23:42 CCC1 ended a year ago; list is in QuickBooks.",
+   "fix": "**Missed opportunity:** 22 reviews in six years is Metric 3 in one number, and he never got asked how he gets them.\n**Probe (Script):** \"How are you getting reviews at the moment?\" Stop.\n**Probe (Script):** \"When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\"\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way. Does that make sense?\""
   },
   {
    "problem": "6. Listing not optimized",
    "said": "No",
-   "quote": "Not audible.",
-   "fix": "Can't be graded from this recording."
+   "quote": "Never asked. 25:19 \"is this something that you or someone on your team wrote?\" got no answer before you moved on.",
+   "fix": "**Probe (Script):** \"When was the last time you optimized this listing?\" Stop.\n**Educate (Script, realtor line):** \"Think about selling a house you hire an agent. If you hire the wrong agent who doesn't have the formula to list it correctly, what happens? It sits. Google listings work exactly the same way.\""
   }
  ],
  "readOwner": [
   {
-   "said": "**~10:00** \"if something just changed… I call you, hey Todd, you know what, I'm not gonna do it anymore, let me just cancel, okay.\"",
-   "belief": "Marketing companies lock you in.",
-   "educated": "",
-   "did": "Not audible. He said \"Oh, that's plain and simple\" right after.",
-   "fix": "**Educate (Q&A):** \"If you ever said, 'Brandon, your service sucks, we're not seeing an ROI,' you keep the site and all your lead data just not the AI automations or system on the backend.\""
+   "said": "**14:21** \"three months, four months down the line, I should expect something happening, hopefully.\"",
+   "belief": "Results take a few months, so I'll judge it then.",
+   "educated": "No",
+   "did": "\"You should expect some things to start happening within the first thirty days.\" A result by a date.",
+   "fix": "**Educate (Script, why three months):** \"Because it's $297 a month. You're not going to change your business overnight for $297. Month one we build everything and start reactivating your list. You'll see reviews coming in and, depending on how strong your listing already is, your first leads. Month two it's running. Month three is when you can actually look at the numbers and see what it's doing. Three months is a fair shot. Anything less and you're judging it before it's had a chance to work. And for giving it that shot, you get the listing at half off and the AI receptionist built specifically for your business, free. Still no contract — cancel any time after.\""
   },
   {
-   "said": "**~29:00** \"the hosting services has to be provided by me, right?… We gotta get a new domain name.\"",
-   "belief": "A website is a website.",
+   "said": "**14:54** \"the payment remains the same?\" **15:03** \"if… I wanna leave the business… four months later, I'll call you, hey, Todd… just cancel?\"",
+   "belief": "Marketing companies lock you in.",
+   "educated": "Partly",
+   "did": "No price changes in two years; cancel at the end of the month; keep the website. Good. Then \"We're a full marketing agency.\"",
+   "fix": "**Educate (Q&A):** \"If you ever said, 'Brandon, your service sucks, we're not seeing an ROI,' you keep the site and all your lead data just not the AI automations or system on the backend.\"\n**Then (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI.\""
+  },
+  {
+   "said": "**29:34** \"so that was a part of the optimization, GMB optimization.\" **30:10** \"Or I can simply stick with the basic basic.\"",
+   "belief": "",
    "educated": "",
-   "did": "Not audible. He said \"Oh, you're hosting the site. Okay. Cool.\"",
-   "fix": "**Educate (Q&A):** \"Whatever domain you have, we point it to the new site we build you. We take care of the hosting… If you don't have access to this domain, we help you get a new domain and usually that's just an additional $5 to $10.\""
+   "did": "Cleared up the $250 and the receptionist, then grandfathered the special and asked for $297 today. Right.",
+   "fix": "None on the downsell. Call it the winning formula every time, so he doesn't call it \"GMB optimization\" back to you."
+  },
+  {
+   "said": "**31:06** \"The hosting services… Has to be provided by me. Right?\" **31:35** \"We gotta do a new domain name.\"",
+   "belief": "A website is a website.",
+   "educated": "Partly",
+   "did": "\"We host your site… we can help you get a new domain… 5 or $10.\" The Q&A answer.",
+   "fix": "**Educate (Q&A):** \"Whatever domain you have, we point it to the new site we build you. We take care of the hosting, so you won't ever have that 'my website's not safe' pop-up.\" Then back to leads: \"do you know how many leads you're capturing from your website right now?\""
+  },
+  {
+   "said": "**38:35** \"I'm gonna have to maybe use another card… my partner is gonna arrive. I'm gonna try it with his card… I'll definitely get this done today.\"",
+   "belief": "",
+   "educated": "",
+   "did": "\"I can't book your onboarding till we get that sorted out.\" Then a callback in three to four hours.",
+   "fix": "**Missed opportunity:** the onboarding time is the commitment, and it was held hostage to the card.\n**Script:** \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\" Book it now, confirm it when the payment clears."
   }
  ],
  "fathom_recording_id": 192636237
