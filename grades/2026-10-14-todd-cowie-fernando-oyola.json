@@ -1,0 +1,146 @@
+{
+ "rep": "Todd Cowie",
+ "owner": "Jeison Castaneda (marketing, for owner Fernando Oyola)",
+ "shop": "Fernando Oyola's auto body shop (Gaithersburg, MD)",
+ "date": "2026-10-14",
+ "closed": false,
+ "outcome": "Not closed. Jeison picked the $297 plan but can't pay; he's taking it to Fernando. Follow-up booked for tomorrow at the same time.",
+ "why": "Jeison was sold by minute 19 and chose $297. The owner, Fernando, never heard any of it, and he's the only one who can pay. Jeison also told you his ads are producing two leads in two weeks and that he answers every lead by hand, and both went by as good news.",
+ "three": [
+  {
+   "happened": "**0:35** Jeison: \"he's typically busy 99.9% of the time, and so he has me doing this at the moment.\"\nYou: \"Okay, got you,\" then the full demo. At 20:23: \"if someone's going to pay for it, it's going to be the boss, man.\"",
+   "say": "**Missed opportunity:** the one person who can say yes wasn't on the call, and the whole demo ran without him.\n**Probe (Script, closer tip):** \"Can he join now?\" If not, book the follow-up with Fernando on it before running the demo.\n**Educate (Script):** \"Before we get into it — is there anyone else that needs to be on this call? Maybe a co-founder, a partner, anything like that?\"",
+   "why": "Everything after minute one was a presentation to someone who can't buy. Tomorrow's call only closes if Fernando is on it."
+  },
+  {
+   "happened": "**4:12** Jeison: \"based on our clicks and everything, I would assume it should be more. But in the last, this month, in the last two weeks, only got like two.\"\nYou: \"Oh boy. Okay. And then did either of those convert?\"",
+   "say": "**Missed opportunity:** he's paying Google for clicks that turn into one lead a week, and he said it himself.\n**Probe (Script):** \"When someone fills out this form, does yours land in an inbox?\" Then: \"Even if you had the best receptionist watching that inbox 24/7… Most people aren't even going to respond to you. You know why?\"\n**Educate (Q&A):** \"Most guys come to me thinking the first thing they have to do is run ads. That's like going from second gear to fourth gear without starting at first gear. If we sold you on ads, we'd be burning your money. First gear is your Google My Business listing and a website that actually turns the traffic into leads.\"",
+   "why": "Fernando is already spending on ads. The pitch to him is that the ad money is leaking out of a site that doesn't capture, which is a money conversation, not a features one."
+  },
+  {
+   "happened": "**3:49** Jeison: \"I get a notification directly to my phone whenever a customer inquires through our website.\" **7:04** \"I message back all DM inquiries.\"\nYou: \"Okay. Awesome.\" and \"Okay, fair enough.\"",
+   "say": "**Missed opportunity:** he texts every web lead and every Instagram DM back by hand, and heard \"Awesome.\"\n**Acknowledge (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\"\n**Educate (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\" Then show the Tareva lead: \"You can think of our system as if it's dancing with your prospect and then it's your job to come into the conversation and pick it up and close the deal.\"",
+   "why": "Replying by hand is the leak the $297 fixes. When the lead comes in while he's with a customer, nobody texts back."
+  }
+ ],
+ "oneMore": "**1:32** Jeison: \"we're almost at 100, they're all nearly 5 stars, so it keeps us at the top, as well as the Google Ads.\" Then at 10:55 you said low reviews \"don't hit your profile.\"\n**Say this (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way.\"\nNever say bad reviews don't hit the profile. **Q&A:** \"We help you get more reviews to push a bad one down.\"",
+ "didWell": [
+  "**3:56** \"So how many leads did you get in the last 30 days from the current website?\" got \"in the last two weeks, only got like two.\"",
+  "**8:54** \"But sometimes you go miss because he's on the phone ordering parts or doing something\" got a yes, and \"What's your guy's average ticket size right now?\" got \"$3,000.\""
+ ],
+ "followUp": "Tomorrow, same time. Before anything else: \"Is Fernando able to join us?\" If he's on, start from the video check and run it for him. Open the money with his own numbers: two leads in two weeks on paid clicks, $3,000 a ticket, calls that go to his cell while he's ordering parts.",
+ "counts": {
+  "problems": "4 of 6",
+  "beliefs": "0 of 3",
+  "missed": "6"
+ },
+ "breakdownNote": "No setter handoff note was available for this grade. The transcript labels Jeison as \"fernando oyola\"; lines are attributed by content.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Path set and agreed. You asked whether the owner should be on the call, heard he's busy \"99.9% of the time,\" and went ahead.",
+   "fix": "**Missed opportunity:** the one person who can say yes wasn't on the call, and the whole demo ran without him.\n**Probe (Script, closer tip):** \"Can he join now?\" If not, book the follow-up with Fernando on it before running the demo.\n**Educate (Script):** \"Before we get into it — is there anyone else that needs to be on this call? Maybe a co-founder, a partner, anything like that?\""
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "Watched. Straight to questions.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "Good questions on the website and socials. No bridge question and no first gear; the three metrics were introduced mid-sentence at 7:19. Money math ran at 11:30 on $1,500 (his $3,000 halved), before any price.",
+   "fix": "**Script:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption?\"\nWait for the yes, then first gear (he's running ads, so this is the call to run it), then the three metrics."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "Asked when it was last optimized (\"a few months ago\"), no push. Photos and geotagging, services, description, in order. No competitor on screen, no \"does that make sense.\"",
+   "fix": "**Script:** \"But what did they actually do to optimize it? That's the biggest thing.\"\nThen after each finding: \"Does that make sense?\""
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "7 to 10 days and all four things, twice. No \"morning or evening.\"",
+   "fix": "**Script:** \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\" Ask it of Fernando."
+  },
+  {
+   "stage": "6. Close",
+   "happened": "$297, $500, why guys stay, the special as two things, the clip, \"What one should we get you going with?\" He picked $297 and you grandfathered the special. Right order, right words, wrong person.",
+   "fix": "None on the words. The downsell line is ready for Fernando: \"Let's get you started at $297. Onboarding tomorrow — morning or evening?\""
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "He knows: 4:12 \"in the last two weeks, only got like two.\" The leak is the number, not not knowing it.",
+   "fix": "**Missed opportunity:** two leads in two weeks on paid clicks, and the next question was whether they converted.\n**Educate (Script):** \"And that's exactly why people use a smart website system as opposed to a traditional one. If you don't know your numbers you won't know how to scale.\" Then: \"When someone fills out this form, does yours land in an inbox?\""
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "Yes",
+   "quote": "3:49 \"I get a notification directly to my phone.\" 7:04 \"I message back all DM inquiries.\" By hand, both.",
+   "fix": "**Missed opportunity:** he texts every web lead and every Instagram DM back by hand, and heard \"Awesome.\"\n**Acknowledge (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\"\n**Educate (Script):** \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\" Then show the Tareva lead: \"You can think of our system as if it's dancing with your prospect and then it's your job to come into the conversation and pick it up and close the deal.\""
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "Yes",
+   "quote": "8:21 \"I would say yes… all of those phone calls go directly to Fernando's phone.\" 8:45 \"sometimes they're not, right immediately.\"",
+   "fix": "You answered \"what happens when you miss\" for him (8:54).\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\" Stop and let him say \"they call the next shop.\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "9:13 \"On average, I would say $3,000.\"",
+   "fix": "Halved to $1,500 and called \"a bad day.\" Good. Bring it back at the close for Fernando: \"If all we did was save you one missed call every 2 weeks you would still be 3-4x on a $297 investment.\" At $1,500 that's 5x."
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "Yes",
+   "quote": "1:32 \"there are a lot of customers that we've done work for that haven't put in reviews for us.\" 2:36 \"we don't have a company that is integratable with CCC One that can do that for us.\"",
+   "fix": "He handed you Metric 3 at minute two.\n**Probe (Script):** \"Do you know one of the key factors for ranking higher?\"\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week.\" Never \"they don't hit your profile\" (10:55)."
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "No",
+   "quote": "14:00 \"Maybe a few months ago, I mean, because everything's, everything's kind of going good.\"\nYou: \"which is awesome.\"",
+   "fix": "**Probe (Script):** \"But what did they actually do to optimize it? That's the biggest thing.\"\n**Educate (Script):** \"Most people write something super generic… They don't realize there's a real strategy to writing this description to help you get the leads you're looking to get.\""
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**1:06** \"we have Google Ads running. They do fairly good for us.\" **2:36** \"with everything that we're doing with the search engine optimization… it's been working fairly good.\"",
+   "belief": "New business means paid ads.",
+   "educated": "Partly",
+   "did": "\"you're currently number 2 in the map pack, which is great.\" At 15:20: \"a lot of our guys end up ranking organically without spending a cent with Google.\" No yes from him.",
+   "fix": "**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Acknowledge (Script):** \"I see you have some photos uploaded on your listing. Which is great.\" He's number 2 in the map pack and almost at 100 reviews; say that out loud.\n**Educate (Q&A):** \"Shops we work with that have 100 to 200 Google reviews are pulling 15 to 20 plus leads a month on the $297 program, organic only, no paid media. That's traffic you're already getting. You're just not catching it.\""
+  },
+  {
+   "said": "**1:32** \"we're almost at 100, they're all nearly 5 stars, so it keeps us at the top.\"",
+   "belief": "More reviews is the goal.",
+   "educated": "No",
+   "did": "Took it as a strength. The consistency line never came.",
+   "fix": "**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way. Does that make sense?\""
+  },
+  {
+   "said": "**6:52** \"we have a social media Instagram page that has the big follow.\" **7:04** \"they typically inquire through there, and then I message back all DM inquiries.\"",
+   "belief": "",
+   "educated": "",
+   "did": "Offered an Instagram funnel. Right answer, then \"Speed to lead\" without the line.",
+   "fix": "**Educate (Q&A):** \"Do you want to manage all those leads through the DMs? No. You push everything to your smart website so all your leads are in one place.\""
+  },
+  {
+   "said": "**13:09** On the loyalty program: \"we haven't had anybody really sign up for that… That was just a recommended thing from the guys that made the website.\"",
+   "belief": "The web guys know what converts.",
+   "educated": "Partly",
+   "did": "\"Loyalty is through engagement,\" then the reactivation campaign. Good bounce.",
+   "fix": "**Educate (Q&A):** \"The most expensive thing any business does is acquire a new customer. Once someone knows your shop, they're worth more to you over time than the next stranger you have to go find.\""
+  },
+  {
+   "said": "**20:47** \"he just wanted me to take this meeting to obviously gain more information… and then pretty much come back and conversate with him and mull it over.\"",
+   "belief": "",
+   "educated": "",
+   "did": "Got a commitment to a yes-or-no tomorrow. Good. Didn't ask for Fernando to be on it.",
+   "fix": "**Missed opportunity:** the close moved to a conversation you won't be in.\n**Probe (Script, closer tip):** \"Can Fernando join us tomorrow? Ten minutes, and I'll walk him through the numbers you and I just went over.\""
+  }
+ ],
+ "fathom_recording_id": 192594830
+}

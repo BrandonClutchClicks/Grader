@@ -1,6 +1,26 @@
 [
  {
   "rep": "Todd Cowie",
+  "owner": "Eray Erga",
+  "shop": "West Hills Car Care (NY)",
+  "date": "2026-10-14",
+  "closed": true,
+  "id": "2026-10-14-todd-cowie-west-hills-car-care",
+  "problems": "1 of 6",
+  "fathom_recording_id": 192636237
+ },
+ {
+  "rep": "Todd Cowie",
+  "owner": "Jeison Castaneda (marketing, for owner Fernando Oyola)",
+  "shop": "Fernando Oyola's auto body shop (Gaithersburg, MD)",
+  "date": "2026-10-14",
+  "closed": false,
+  "id": "2026-10-14-todd-cowie-fernando-oyola",
+  "problems": "4 of 6",
+  "fathom_recording_id": 192594830
+ },
+ {
+  "rep": "Todd Cowie",
   "owner": "Juan Curiel",
   "shop": "Car Aid Collision (Dalton, GA)",
   "date": "2026-10-12",

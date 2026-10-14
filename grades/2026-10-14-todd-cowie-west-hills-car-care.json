@@ -1,0 +1,123 @@
+{
+ "rep": "Todd Cowie",
+ "owner": "Eray Erga",
+ "shop": "West Hills Car Care (NY)",
+ "date": "2026-10-14",
+ "closed": true,
+ "outcome": "Closed at $297 a month. His card failed on the call; Todd emailed the checkout link.",
+ "flag": "Recording note: at about 31:50 Eray read his card number, expiration and security code aloud. Trim that section before anyone else hears it. Only Eray's side of this call was recorded; Todd's audio is missing except the video, so most of this grade can't be filled in.",
+ "why": "Why it closed: Eray came in already sold on the plan. He read the price page back, asked what happens if he cancels, chose the basic plan \"financially,\" and started paying before the call ended.",
+ "three": [
+  {
+   "happened": "**~31:50** Eray read his card number aloud, twice, and it was declined.\nWhat you said back isn't on the recording. The Fathom summary says you emailed the link.",
+   "say": "**Say this (Script):** send the checkout link before any numbers come out. \"I'm going to text you the checkout link right now. Fill it out on your end and I'll stay on while it goes through.\"",
+   "why": "A card read over a recorded call has to be scrubbed, and a declined card read twice is how a hot buyer cools off."
+  },
+  {
+   "happened": "**~10:00** Eray: \"three months, four months down the line, I should expect something happening, hopefully… the payment remains the same, okay, and if… I want to leave… I call you, hey Todd… let me just cancel.\"\nYour answer isn't on the recording.",
+   "say": "**Educate (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI: leads captured from the traffic you're already getting, missed calls saved, reviews earned.\"",
+   "why": "He's picturing month four. The three numbers are what he'll check in month four."
+  },
+  {
+   "happened": "**~26:00** Eray: \"Or I can simply stick with the basic… that's a little bit better in my case, just, you know, financially.\"",
+   "say": "**Acknowledge + Educate (Script, the downsell):** \"No worries. We get you started with the foundation at $297 today. I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle. It doesn't expire on you.\"",
+   "why": "He chose the basic on money. Grandfathering keeps the $250 listing alive for the launch call."
+  }
+ ],
+ "oneMore": "**~29:00** Eray: \"the hosting services has to be provided by me, right?… We gotta get a new domain name.\"\n**Say this (Q&A):** \"We take care of the hosting… If you don't have access to this domain, we help you get a new domain and usually that's just an additional $5 to $10.\"",
+ "didWell": [],
+ "followUp": "Onboarding. Confirm the $297 went through on the emailed link, then the four things: photos, his old CCC1 list (he said it hasn't been updated in a year), services, service areas. Mark his account for the grandfathered special.",
+ "counts": {
+  "problems": "1 of 6",
+  "beliefs": "0 of 2",
+  "missed": "0 that can be heard"
+ },
+ "breakdownNote": "Only Eray's audio was captured. No setter handoff note was available.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Not on the recording. Eray: \"My partner would around, but they'll make it. Oh I'll make the decision.\" Decision maker confirmed.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "Video played in full before any questions.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "Eray's answers only: \"every other day, probably one or two,\" \"I did about 15 and another 15 this month,\" \"September was two, it was three this month,\" CCC1 subscription ended a year ago. Your questions aren't audible.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "Eray: \"so that was a part of the optimization, GMB optimization offer, okay.\" He heard \"optimization,\" not \"the winning formula.\"",
+   "fix": "**Script:** call it the winning formula, never \"an optimization.\""
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "Not audible.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "stage": "6. Close",
+   "happened": "Eray read both options back correctly and chose $297. Then the card number aloud, twice, declined, link emailed.",
+   "fix": "**Script:** the fix is the checkout link. Never take a card number on the call."
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "Not audible.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "problem": "2. Form goes to an inbox",
+   "said": "No",
+   "quote": "Not audible.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "No",
+   "quote": "Not audible. \"every other day, probably one or two\" may be this; your question is missing.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "~15:30 \"September was two, it was three this month, I'll say.\" Read as $2,000 to $3,000; your question is missing.",
+   "fix": "**Script:** halve it, say you're being conservative, and run the math before the price."
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "No",
+   "quote": "~19:50 \"for the last year, it hasn't been updated because I ended the subscription.\" That's his database, not his review process.",
+   "fix": "Can't be graded from this recording."
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "No",
+   "quote": "Not audible.",
+   "fix": "Can't be graded from this recording."
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**~10:00** \"if something just changed… I call you, hey Todd, you know what, I'm not gonna do it anymore, let me just cancel, okay.\"",
+   "belief": "Marketing companies lock you in.",
+   "educated": "",
+   "did": "Not audible. He said \"Oh, that's plain and simple\" right after.",
+   "fix": "**Educate (Q&A):** \"If you ever said, 'Brandon, your service sucks, we're not seeing an ROI,' you keep the site and all your lead data just not the AI automations or system on the backend.\""
+  },
+  {
+   "said": "**~29:00** \"the hosting services has to be provided by me, right?… We gotta get a new domain name.\"",
+   "belief": "A website is a website.",
+   "educated": "",
+   "did": "Not audible. He said \"Oh, you're hosting the site. Okay. Cool.\"",
+   "fix": "**Educate (Q&A):** \"Whatever domain you have, we point it to the new site we build you. We take care of the hosting… If you don't have access to this domain, we help you get a new domain and usually that's just an additional $5 to $10.\""
+  }
+ ],
+ "fathom_recording_id": 192636237
+}
