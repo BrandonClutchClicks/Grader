@@ -1,6 +1,16 @@
 [
  {
   "rep": "Todd Cowie",
+  "owner": "Ali Kachbachli",
+  "shop": "United Auto Care Center (Las Vegas, NV)",
+  "date": "2026-10-15",
+  "closed": false,
+  "id": "2026-10-15-todd-cowie-united-auto-care-center",
+  "problems": "2 of 6",
+  "fathom_recording_id": 193285249
+ },
+ {
+  "rep": "Todd Cowie",
   "owner": "Tony Stoms (son is his partner and takes over in three months; not on the call)",
   "shop": "Stoms Automotive (Middlesex, NJ)",
   "date": "2026-10-15",
