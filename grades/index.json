@@ -1,6 +1,26 @@
 [
  {
   "rep": "Ivan Rey",
+  "owner": "Luisbel (Luisbelmartin Jaime)",
+  "shop": "HBN International Solutions, formerly Luisbel Body Shop Inc. (Tampa, FL)",
+  "date": "2026-10-15",
+  "closed": false,
+  "id": "2026-10-15-ivan-rey-hbn-international-solutions",
+  "problems": "2 of 6",
+  "fathom_recording_id": 193184635
+ },
+ {
+  "rep": "Todd Cowie",
+  "owner": "Johnny Prieto (partner Terry listening in)",
+  "shop": "Certified Motor Sports LLC (Los Angeles, CA)",
+  "date": "2026-10-15",
+  "closed": true,
+  "id": "2026-10-15-todd-cowie-certified-motor-sports",
+  "problems": "1 of 6",
+  "fathom_recording_id": 193162421
+ },
+ {
+  "rep": "Ivan Rey",
   "owner": "Luis Guzmán",
   "shop": "Boris Auto Repair LLC (Milwaukee, WI)",
   "date": "2026-10-15",

@@ -1,0 +1,147 @@
+{
+ "rep": "Todd Cowie",
+ "owner": "Johnny Prieto (partner Terry listening in)",
+ "shop": "Certified Motor Sports LLC (Los Angeles, CA)",
+ "date": "2026-10-15",
+ "closed": true,
+ "outcome": "Closed at $297 a month, the three-month special grandfathered on the account. Paid on the call. Onboarding booked for tomorrow, Oct 16, at 12 PM with Sara.",
+ "flag": "Recording note: Johnny's card number, expiration and security code were read aloud at 23:34 to 24:10, and his email, cell number and shop address at 22:30 to 27:10. Trim those before anyone else hears this call.",
+ "why": "Why it closed: Johnny came in with no website, 21 reviews in seven years, a $5,000 insurance ticket and a listing with no services and no description, and he said the value himself at 03:29 (\"what kind of leads are we getting?\"). He wanted to start (\"even at the 297, at least we're trying,\" 21:05) and the grandfather line gave him a way in at the floor. It stayed at $297 because the only math he heard was on missed calls, which he had just said he does not get, and the $297 and $500 were on the table before any of it.",
+ "three": [
+  {
+   "happened": "**19:22** Johnny: \"So what is this $500 over here?\" You explained it as \"to spruce up your Google listing\" and in the same breath offered \"you can start with the $297, see how we go... and I can grandfather in this offer.\"",
+   "say": "**Say this (Q&A, Should I add the $500?):** \"Looking at your listing, and the two or three things we just went over that are missing, yeah, you need it. Unless you want to go in and do all that yourself. And most guys don't have the time.\"\n**Then (Script):** \"Which one do you want to get started with?\"",
+   "why": "He asked about the listing fix on his own with no services, no description and 21 reviews still on the screen; a plain yes sells the $797 or the $1,141, and the grandfather line is there only if he says cash first."
+  },
+  {
+   "happened": "**03:53** Johnny: \"I don't think so. I wouldn't say.\" (missed calls). You went straight to the ticket and ran the math on \"if we can get you one of those calls back\" (05:12). At **14:41** he told you where calls actually go: \"I use my cell phone a lot when I started the business... I get a lot of calls still through my cell phone... we have a line in the office now.\"",
+   "say": "**Probe (Brandon's line):** \"What about after hours? What about when you're sleeping?\" Stop.\n**Acknowledge (Brandon's line):** \"Hey, look, man, that's awesome that you're on top of your phones. Those are our best partners.\"\n**Educate (Brandon's line):** \"The reason why most shops have this missed call text-back feature set up is because the automotive industry is a high-volume-based business. If you miss a call, the person traditionally ends up calling the next competitor. This is just to help you if anything slips through the cracks.\"\n**Then (Script, 3F, missed calls not important):** \"You mentioned earlier your average order value is around $5,000. Okay. Most shops range from $500 to $5,000+ plus depending on the job. Now, if all we did was help you land one to two extra customers a month just from the Missed Call Text-Back, the leads we capture from the smart website, or the reviews you're still 3-4x on a $297 investment. Does that make sense?\"",
+   "why": "Two phone numbers and one owner means something slips, and the after-hours probe gets him to say it; until he does, the $2,500 math is running on a strength he just claimed, and the receptionist at 15:00 is pitched against a phone he told you he answers."
+  },
+  {
+   "happened": "**01:51** You: \"the system is $297 a month. Includes the AI-enabled website, the lead follow-up, Missed Call Text-Back, and the 5-Star Review System,\" before any question, any stop or any math; Johnny had not said a word about his shop yet. The $500, $891 and $1,141 followed at 11:30, still before the four things.",
+   "say": "**Say this (Script, the ROI Bridge):** \"Before I jump into that — I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Johnny?\" Wait for the yes.\n**Educate (Script, first gear):** \"Most operators we work with, the first thing they think about when bringing new business into their shop is they think they have to run paid ads. However, that's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest and most valuable asset you have to your business, which is your Google My Business listing, and implementing a system in place to really maximize capturing the traffic from it and/or anywhere else you're doing marketing whether that be social media pages, etc. Does that make sense?\"\n**Then (Script):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three metrics every month so you can understand your Return On Investment: leads captured from the traffic you're already getting, how many missed calls we save you, and how many reviews we help you get month over month.\" The $297 and the $500 are said once, at the close, in one go.",
+   "why": "A $5,000 insurance ticket, 21 reviews in seven years and no website is a shop where three numbers a month pay for themselves many times over; he needs to hear that case before a price so $1,141 lands as money coming back, not money going out of a tight budget."
+  }
+ ],
+ "oneMore": "**05:27** You: \"You only have 21 reviews right now. How long have you been in business for?\" Johnny: \"Seven years.\" You: \"So this should be in the hundreds, right?\" He never said how he gets reviews today, and the listing diagnosis started inside the review metric.\n**Probe (Script):** \"How are you getting reviews at the moment?\" Stop.\n**Educate (Script):** \"Well one of the main reasons why guys use a smart website system is also our review system. Anyone that you have in your QuickBooks, Tekmetric, Shopmonkey, CCC1, wherever you're storing your previous database, we take that list. And we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop.\" Then: \"When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\" Stop. \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week.\"\nSeven years of insurance customers in his system and 21 reviews is the leak this shop pays back on first; said by him, it carries the $250 listing fix with it.",
+ "didWell": [
+  "**03:20** \"So you can see how many leads are coming in. What does that do?\" got Johnny to say the value himself: \"Helps you figure out what do we need to change? What kind of leads are we getting?\"",
+  "**04:35** \"to the insurance company, what's your average ticket size?\" got \"I'd say 5,000,\" and you cut it to $2,500 out loud before you ran the number."
+ ],
+ "followUp": "Onboarding tomorrow, Oct 16 at 12 PM with Sara. Open by asking Johnny to have Terry on the call, confirm the grandfathered special is marked on the account, then the four things: photos of his best insurance work, the customer list from his shop system (seven years of it), his service list, and the LA neighborhoods he wants pages for. Give him the real answer on his phones from the Q&A: his number stays his number, a tracking number forwards to the shop line, and text-back fires on what that number misses.",
+ "counts": {
+  "problems": "1 of 6",
+  "beliefs": "1 of 4",
+  "missed": "5"
+ },
+ "breakdownNote": "Fathom labelled most of Johnny's lines as the shop and some of Todd's lines as Johnny, so lines are attributed by content. The Closed Calls Index and Objection Library is not in project knowledge, so fixes come from Brandon's lines, the Script and the Q&A. No setter handoff note was available; the two phone lines and the insurance-only billing came out live.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Video confirmed watched (00:40). Decision-maker gate asked; Johnny named Terry and you said \"nice to meet you\" without bringing her onto the call. Path set: \"people who watch the video have a few questions, get them answered. If everything makes sense, we get you going. Fair enough?\" Yes. At 16:27 the answer was \"Let me talk to my partner about it.\"",
+   "fix": "**Script (closer tip):** when he names Terry, get her on the call: ask can she join now. If not, continue running the demo, and at the close speak to both of them."
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "Confirmed watched at 00:40. Straight to Stage 3.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "\"What questions were top of mind?\" got none, then the bridge question (\"that's a fair assumption, correct?\") with the $297 already said inside it at 01:51 and no first gear. Metric 1: told him he has no website, no stop on leads or listing traffic. Metric 2: \"I don't think so\" taken as a yes, ticket got ($5,000), math on a missed call. Metric 3: told him 21 reviews should be hundreds, never asked how he gets them; the listing diagnosis started here. Money math at 04:35 to 05:12, after the price.",
+   "fix": "**Script (the bridge, then first gear):** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Johnny?\" Wait for the yes, first gear word for word, \"Does that make sense?\", then the three metrics, each with its stop, and the price only at the close."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "His listing was on screen from 01:48. Map pack explained with a live search and sponsored versus organic (06:30). Findings: reviews, then photos and geotagging, services not listed, description (07:40 to 09:00). No competitor was clicked to show a services list, and \"when was the last time you optimized this listing?\" was never asked. At 09:10 the website was described as what moves him up the map pack.",
+   "fix": "**Script:** \"When was the last time you optimized this listing?\" Stop. If he has an answer: \"But what did they actually do to optimize it? That's the biggest thing.\" Then the three findings with a competitor open next to his. On the website and the listing (Q&A): \"Your website and your Google listing are two different assets, and Google ranks them separately... The site supports the listing, but it won't fix a weak one on its own.\""
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "Timeline at 01:12 and again at 18:30. The four things named at 18:30 (photos, database, services, service areas) only after the $297, $500, $891 and $1,141 were all out. \"Morning or evening\" never came; the onboarding time was picked at 24:16, after the card.",
+   "fix": "**Script:** the four things in full, then \"When would you be available for the onboarding call tomorrow, in the morning or the evening?\" Before any price."
+  },
+  {
+   "stage": "6. Close",
+   "happened": "$297, $500 one-time, \"we don't do contracts, guys just stay... because the system just works,\" the special as two things with the clip (audio failed, replayed at 12:41), \"which one of those did you want to get started with?\" (16:20). On \"Let me talk to my partner\" and \"I just do the monthly thing,\" the grandfather line ran (18:50, 21:21) and he started at $297. At 21:50: \"We are a full agency. We can do Google Ads.\" Then the card read aloud (23:34 to 24:10).",
+   "fix": "**Say this (Brandon's line):** the checkout link, every time. Send it to the email he gave at 22:30 and stay on the line while he fills it in. No card numbers over a recorded call, and never read one back. Never \"a full agency\"; the Q&A frame is: \"We run ads and have in-depth SEO packages on the back end however we will never sell you on ads if you don't have your foundation set up.\""
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "No",
+   "quote": "01:51 You: \"you don't have a website. Is that correct?\" Johnny: \"No.\" You: \"So you're not tracking leads on your current website.\" One word to a leading question; what his listing produces was never asked.",
+   "fix": "**Probe (Script, no website):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Stop.\n**Educate (Script):** \"Because before you ever spend a dollar on Google Ads or Facebook Ads, the most valuable asset you have is this right here — your listing. And you're already getting traffic to it. You're just not doing everything in your power to capture it.\" Then: \"If you don't know your numbers you won't know how to scale.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox / replies by hand",
+   "said": "No",
+   "quote": "Never asked; he has no form. At 10:00 you said it for him: \"most guys on their websites have a contact us. That's pretty useless because it drops in an email box.\"",
+   "fix": "**Probe (Script):** \"So here's the thing even if you had the best receptionist watching that inbox 24/7 and they are responding to that lead within 5 minutes or less. Most people aren't even going to respond to you. You know why?\" Stop.\n**Educate (Script):** \"Well the reason is because most people don't use email as their main form of communication. If you take a look at our smart websites that we build for clients, any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\" Then the Tareva demo: \"Can you see why shops have this set up?\""
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "No",
+   "quote": "03:53 \"I don't think so. I wouldn't say.\" 14:41 \"I use my cell phone a lot... I get a lot of calls still through my cell phone... we have a line in the office now.\"",
+   "fix": "**Missed opportunity:** he told you calls come to two numbers, and the answer was to put the receptionist on his cell and \"let me find out\" about more lines (15:00 to 16:00). The receptionist was pitched against a phone he said he answers.\n**Probe (Q&A):** \"What about when you're under a car, or already on the phone with someone, or it's Sunday and you're with your family? Does anything ever slip through the cracks?\" Stop.\n**Educate (Q&A):** \"You don't change anything. Your number stays your number. We set up a tracking number that forwards straight to your shop line. That's the number we put on your new website and, if you're open to it, on your Google Business Profile. Anyone who calls it rings your phone exactly like it does today. The difference is what happens when you miss the call.\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "04:35 \"95% of our customers, it's not a cash job, it's mostly billed to insurance... I'd say 5,000.\"",
+   "fix": "His number, cut to $2,500 out loud (05:00). Right. But the math ran on \"one of those calls back\" after he said he does not miss calls, and after the $297 at 01:51.\n**Educate (Script, 3F, missed calls not important):** \"Now, if all we did was help you land one to two extra customers a month just from the Missed Call Text-Back, the leads we capture from the smart website, or the reviews you're still 3-4x on a $297 investment. Does that make sense?\" Then: \"That's exactly why people stay with us month over month and we don't do contracts. It's very easy to understand your ROI when tracking these three metrics.\""
+  },
+  {
+   "problem": "5. Review process is manual / none",
+   "said": "No",
+   "quote": "05:27 You: \"You only have 21 reviews right now. How long have you been in business for?\" Johnny: \"Seven years.\" He never said how he asks for them today.",
+   "fix": "**Probe (Script):** \"How are you getting reviews at the moment?\" Stop.\n**Educate (Script):** \"Well one of the main reasons why guys use a smart website system is also our review system. Anyone that you have in your QuickBooks, Tekmetric, Shopmonkey, CCC1, wherever you're storing your previous database, we take that list. And we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop. When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\" Stop. \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "No",
+   "quote": "Never asked. You told him at 08:00 to 09:00: \"you don't have your services listed here... you don't have really a description.\" He said nothing; he answered \"No\" only to \"familiar with the map pack?\"",
+   "fix": "**Probe (Script):** \"When was the last time you optimized this listing?\" Stop. If he has an answer: \"But what did they actually do to optimize it? That's the biggest thing.\"\n**Educate (Script, the realtor line):** \"There's a winning formula to building these listings out the right way. Think about selling a house you hire an agent. If you hire the wrong agent who doesn't have the formula to list it correctly, what happens? It sits. Google listings work exactly the same way.\" Then the three findings with a competitor's listing open next to his."
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**03:53** \"I don't think so. I wouldn't say.\"",
+   "belief": "I answer my phone, so calls are covered.",
+   "educated": "No",
+   "did": "Went straight to the ticket, ran the missed-call math anyway (05:12), and at 15:00 offered the receptionist for his cell.",
+   "fix": "**Probe (Brandon's line):** \"What about after hours? What about when you're sleeping?\"\n**Acknowledge (Brandon's line):** \"Hey, look, man, that's awesome that you're on top of your phones. Those are our best partners.\"\n**Educate (Brandon's line):** \"The reason why most shops have this missed call text-back feature set up is because the automotive industry is a high-volume-based business. If you miss a call, the person traditionally ends up calling the next competitor. This is just to help you if anything slips through the cracks.\" Then the leak is leads and the listing, and the math runs there."
+  },
+  {
+   "said": "**04:14** \"95% of our customers, it's not a cash job, it's mostly billed to insurance.\"",
+   "belief": "Insurers send me the work; people finding me online is not where my jobs come from.",
+   "educated": "No",
+   "did": "\"Ah, okay, so you do a ton of insurance work then?\" and on to the ticket.",
+   "fix": "No approved answer in project knowledge for insurer-referred work. Closest (Q&A, referrals): \"think about what happens when your buddy tells his neighbor about you. The first thing that neighbor does is look you up on Google before he calls. If he sees 20 reviews and the shop down the street has 200, who does he call? So your referrals are already going to Google.\" Then: \"Let me ask you, when a referral calls and you're under a car, what happens?\""
+  },
+  {
+   "said": "**16:27** \"Let me talk to my partner about it.\" **16:56** \"She's here already. She's listening and everything.\"",
+   "belief": "None. The partner named at 00:40 was in the room and never on the call.",
+   "educated": "",
+   "did": "\"I thought we said everyone was here... what am I missing that you're not saying, Todd, let's go right now?\" (16:35 to 17:00). He answered with \"I just do the monthly thing.\"",
+   "fix": "**Script (closer tip):** at 00:40, when he names Terry: ask can she join now. Then at the close, \"Which one do you want to get started with?\" is asked of both."
+  },
+  {
+   "said": "**17:21** \"I just do the monthly thing.\" **20:27** \"We're in a tight place.\" **21:05** \"even at the 297, at least we're trying.\" **21:37** \"we're eating a couple of noodles, and I wouldn't mind eating a steak once in a while.\"",
+   "belief": "Cash is tight; start small and see.",
+   "educated": "Yes",
+   "did": "Recapped the $297 and the three-month offer, then grandfathered the special (18:50, 21:21) and he said yes at 22:20. In between, at 21:50: \"We are a full agency. We can do Google Ads, help you scale... We start in first gear.\"",
+   "fix": "The downsell was the right call. Run it as written so it ends on the date.\n**Say this (Script, the downsell):** \"No worries. We get you started with the foundation at $297 today. Here's what I'll do — I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle specifically built for your brand. It doesn't expire on you... You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\" Never \"a full agency.\""
+  },
+  {
+   "said": "**14:41** \"How many lines can I add that to? ... I use my cell phone a lot when I started the business... I get a lot of calls still through my cell phone... we have a line in the office now.\"",
+   "belief": "The receptionist is a phone feature I bolt onto my lines.",
+   "educated": "Partly",
+   "did": "Explained the new number for the site and listing, proposed text-back on the shop line and the receptionist on his cell, and said \"if we can have it on more lines, let me find out about that\" (16:00).",
+   "fix": "**Missed opportunity:** two numbers and one owner is the missed-call leak said out loud, and it became a setup question.\n**Educate (Q&A, phone system):** \"You don't change anything. Your number stays your number. Here's what happens on our side. We set up a tracking number that forwards straight to your shop line. That's the number we put on your new website and, if you're open to it, on your Google Business Profile. Anyone who calls it rings your phone exactly like it does today. The difference is what happens when you miss the call. The second it goes unanswered, that caller gets a text... My team walks you through the exact setup on the onboarding call.\" Then (Script): \"Naturally if you miss a call what usually happens?\" Stop."
+  }
+ ],
+ "fathom_recording_id": 193162421
+}
