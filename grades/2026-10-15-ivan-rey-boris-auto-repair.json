@@ -1,0 +1,161 @@
+{
+ "rep": "Ivan Rey",
+ "owner": "Luis Guzmán",
+ "shop": "Boris Auto Repair LLC (Milwaukee, WI)",
+ "date": "2026-10-15",
+ "closed": true,
+ "outcome": "Closed at $1,141: three months of $297 up front plus the winning formula at $250, AI receptionist free for the three months. Paid on the call. Onboarding pencilled for tomorrow at 9 AM Central; Ivan to confirm the account manager and text him.",
+ "flag": "Recording note: Luis's card number, expiration and security code were read aloud at 1:19:24 to 1:20:15, and his personal email at 1:15:46. Trim both before anyone else hears this call.",
+ "why": "Why it closed: Luis came in wanting two things he said out loud, an AI to take his English calls (25:34) and no contract (28:19). He said he misses calls and loses Yelp leads in his own words, the math ran on his own $120 hour before any add-on price, and the live look at his listing (two services and no description after paying a company about $1,500, Larry's old listing still sitting at his address, Astro next door at #3 with 253 reviews) made the $250 fix his idea. He chose the three months himself at 1:06:00.",
+ "three": [
+  {
+   "happened": "**45:31** Luis: \"Entonces, ahorita si lo agarro mes con mes, nada más sería lo puro 297, que es puro mensaje y todo, ¿verdad?\" (if I take it month to month it's just the $297).\nYou (46:02): \"Sí, pero realmente eso ya es una mejora bastante grande… Realmente con el 297 te va a ayudar muchísimo… y ahí sí podemos ver la opción del otro paquete.\"",
+   "say": "**Educate (Script, why three months):** \"Because it's $297 a month. You're not going to change your business overnight for $297. Month one we build everything and start reactivating your list. You'll see reviews coming in and, depending on how strong your listing already is, your first leads. Month two it's running. Month three is when you can actually look at the numbers and see what it's doing. Three months is a fair shot. Anything less and you're judging it before it's had a chance to work. And for giving it that shot, you get the listing at half off and the AI receptionist built specifically for your business, free. Still no contract — cancel any time after.\"\n**Then (Script):** \"Which one do you want to get started with?\"",
+   "why": "He took the three months twenty minutes later on his own; this line gets him there at 45:31 without first talking the special down to $297."
+  },
+  {
+   "happened": "**1:17:01** You: \"Y la tarjeta, ¿cuál es?\" Luis read the card number, expiration and code aloud (1:19:24 to 1:20:15).",
+   "say": "**Say this (Brandon's line):** the checkout link, every time. Send it to the email he confirmed at 1:15:46 and stay on the line while he fills it in. No card numbers over a recorded call, and never read one back.",
+   "why": "The recording now has to be scrubbed; on a link he types it once on the phone he was already holding and there is nothing to trim."
+  },
+  {
+   "happened": "**35:02** You: \"Este paquete no incluye lo de las llamadas de IA… También ofrecemos eso, te lo puedo mostrar después.\" Then **36:42**: \"lo de las llamadas, generalmente nosotros lo regalamos a clientes que paguen tres meses por adelantado… o lo cobramos por 200 dólares al mes,\" with the demo, before his listing and before the four things. Luis had told you at **25:34**: \"si IA contesta las llamadas por mí, está bien, porque yo para el inglés… no soy muy bueno.\"",
+   "say": "**Hold it for the close (Script, all in one go):** \"It's $297 a month for the smart website system. Everything you saw in the video, everything we talked about on this call. We do also offer the winning formula to go and rebuild your listing out the right way. Once you set this up once, you don't have to touch it for 5+ years. That's $500 one time. Now, there's a reason guys stay with us for over a year and we don't do contracts. It's because the system just works, and every month we track those three metrics I mentioned for you to understand your ROI. We're running a special right now. If you commit to a 3-month billing cycle up front two things happen. You get the winning formula where we go in and rebuild out your listing the right way for half off. $250 instead of $500. Two, you get our AI receptionist included. Normally that's $200 a month. It handles all your inbound leads, picks up the phone when you can't, and it's trained specifically for your shop, and how you talk to customers. Here's an example of what it sounds like…\" (play clip) \"Which one do you want to get started with?\"",
+   "why": "The receptionist is the thing he came for; played at the close, after the listing dig, it is the reason to say yes to $1,141 in one breath instead of four prices spread over ten minutes."
+  }
+ ],
+ "oneMore": "**25:34** Luis: \"a veces ando buscando cosillas así como estas de ustedes donde me puedan dar un poco de más tráfico para que mi taller pueda sobresalir, para que sea de los primeros en ver.\" You went to his AI interest; first gear never ran.\n**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Brandon's line):** \"Hey, most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\"\nHe will judge month one on \"traffic\" unless he hears this; it sets him up to judge it on leads captured, missed calls saved and reviews.",
+ "didWell": [
+  "**32:50** \"¿cuánto es el precio promedio de un trabajo contigo?\" got \"yo la hora la estoy cobrando ahorita 120… unos breaks son como 150, 180 dólares,\" and the math ran on it at 34:05 before any add-on price.",
+  "**52:12 to 53:07** Pulling his own listing up live and finding two services got **55:39** \"esto lo debió haber hecho la compañía de marketing que me diseñó los logotipos… ¿verdad?\" and, at **1:06:00**, \"para que me arregles todo este rollo… nos vamos a aventar los tres meses.\""
+ ],
+ "followUp": "Onboarding is pencilled for tomorrow (Oct 16) at 9 AM Central, pending the account manager. Open by confirming the time, then the four things: photos of his best work (his before-and-after engine jobs), his customer list (Mitchell One is new, so names and phone numbers on a spreadsheet are enough), his full service list (engine rebuilds, timing chains, AC and heat), and the suburbs he wants pages for (the ones you named at 49:57). Hand the team Larry's old listing at his address and the website login.",
+ "counts": {
+  "problems": "6 of 6",
+  "beliefs": "3 of 6",
+  "missed": "6"
+ },
+ "breakdownNote": "Call in Spanish. Luis's words are quoted as spoken, with a short English gloss where it helps; fixes are the script lines in English for Ivan to run in Spanish. Fathom's speaker labels were wrong for much of the call, so lines are attributed by content. The Closed Calls Index and Objection Library is not in project knowledge, so fixes come from Brandon's lines, the Script and the Q&A. No setter handoff note was available.",
+ "stages": [
+  {
+   "stage": "1. Intro + Frame",
+   "happened": "Shop confirmed (00:21). Path set: questions, answers, \"si todo tiene sentido, pues empezamos a trabajar juntos\" (00:36). Decision maker gated: \"¿un socio, la esposa?\" got \"Solo yo\" (01:10).",
+   "fix": "None."
+  },
+  {
+   "stage": "2. Video Check",
+   "happened": "Video is in English, so you shared your screen and played it with live translation before any questions (01:22 to 24:00), with a six-minute pause for a walk-in at 07:21.",
+   "fix": "None."
+  },
+  {
+   "stage": "3. Product Value",
+   "happened": "The pipeline demo and missed-call text-back ran mid-video (15:06 to 21:13) before any metric question. The bridge at 30:31 was a statement, not a question: half of first gear (\"ahora mismo hacemos publicidad… primero hacemos los fundamentos\") with no \"does that make sense,\" no yes and no Google listing as first gear, then the three metrics. Metric 1 asked and stopped (31:28). Ticket asked and stopped (32:50). Math at 34:05 on his $120 hour, five jobs, before any add-on price. Then the receptionist at 35:02 to 36:42 with its price and the three-month giveaway, before the listing.",
+   "fix": "**Script (the bridge):** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Luis?\" Wait for the yes, then first gear word for word, then \"Does that make sense?\", then the three metrics. The receptionist waits for the close."
+  },
+  {
+   "stage": "4. GMB Upsell",
+   "happened": "Geotagging asked and taught (41:09). Astro Auto Repair live on screen: #3 in the map pack, 253 reviews, services listed, a description. His listing: two services, no description, and Larry's old listing at his address (50:42 to 53:07). The three findings in order, called \"la fórmula ganadora.\" The $500 and $250 came out at 42:37, straight after the findings and before the transition.",
+   "fix": "**Script:** \"When was the last time you optimized this listing?\" Stop. If he has an answer, push once: \"But what did they actually do to optimize it? That's the biggest thing.\" Ask it before the findings; the \"tú le habías pagado a una empresa, ¿no?\" at 50:42 came after the price."
+  },
+  {
+   "stage": "5. Transition",
+   "happened": "47:25: seven to ten days, then website access, photos, services and areas, after the $1,141 was already on the table (45:05). The customer list was never named as one of the four things. \"Mañana, tarde, ¿qué te queda mejor?\" came at 1:20:30, after the card.",
+   "fix": "**Script:** \"On that onboarding call we need four things from you. Do you have photos of your best work? The 2nd thing we need is your customer database and whoever you want reactivated. The 3rd thing we need from you is a list of services. The 4th thing we are going need from you is a list of your service areas. When would you be available for the onboarding call tomorrow, in the morning or the evening?\" Before any price."
+  },
+  {
+   "stage": "6. Close",
+   "happened": "Prices came out in four pieces: $297 (18:46), the receptionist at $200 and the three-month giveaway (36:42), $500 then $250 (42:37), $1,141 (45:05). The downsell was offered before he balked (\"Otra cosa que tú puedes hacer es comenzar con el paquete… y después\"). \"Why guys stay\" and \"which one\" never came. He chose the three months himself at 1:06:00. Then \"Y la tarjeta, ¿cuál es?\" (1:17:01) and the card read aloud.",
+   "fix": "**Say this (Brandon's line):** the checkout link, every time. Send it to the email he confirmed at 1:15:46 and stay on the line while he fills it in. No card numbers over a recorded call, and never read one back."
+  }
+ ],
+ "scoreboard": [
+  {
+   "problem": "1. Doesn't know website leads",
+   "said": "Yes",
+   "quote": "31:28 \"Pues hasta ahorita, no. No sé cuántos… específicamente trabajos de cada de qué página es no tengo la seguridad.\"",
+   "fix": "Asked and stopped. The teach after his answer was half of it (\"lo organizamos para que tengas todos los números claros\").\n**Educate (Script):** \"And that's exactly why people use a smart website system as opposed to a traditional one. If you don't know your numbers you won't know how to scale. With our system you're going to be able to log into the backend on desktop and/or mobile. And track exactly how many leads you're capturing on a month-to-month basis.\""
+  },
+  {
+   "problem": "2. Form goes to an inbox / replies by hand",
+   "said": "Yes",
+   "quote": "16:22 \"acaba de aparecer un mensaje aquí de Yelp… ahorita debo de contestarlos lo más rápido que se pueda… si le contesto a los 15, 20, 30 minutos, pues prácticamente ya se pierde.\" His website form was never asked about.",
+   "fix": "**Missed opportunity:** he replies to Yelp leads by hand and loses them at twenty minutes, and you answered with the missed-call text-back only.\n**Probe (Script):** \"When someone fills out this form, does yours land in an inbox?\"\n**Educate (Brandon's line):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually. Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\""
+  },
+  {
+   "problem": "3. Misses calls",
+   "said": "Yes",
+   "quote": "16:22 \"me han llamado… cuando soy ocupado… y no lo alcanzo a atender… hay llamadas que ya ni me contestan.\" 1:06:00 \"a veces yo los pierdo porque a veces no consigo contestarlos luego, luego… pierdo mucho.\"",
+   "fix": "He said it unprompted; \"what happens when you miss\" was told to him at 15:49 (\"muy probablemente esa lead se vaya por la competencia, ¿cierto?\") instead of asked.\n**Probe (Script):** \"Naturally if you miss a call what usually happens?\" Stop.\n**Educate (Script):** \"If you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree? With our missed call text-back feature, it prevents that lead from calling your competitor. Does that make sense? Can you see why shops have this set up?\""
+  },
+  {
+   "problem": "4. Average ticket",
+   "said": "Yes",
+   "quote": "33:11 \"yo la hora la estoy cobrando ahorita 120… unos breaks son como 150, 180 dólares… más aparte del labor, más aparte de partes.\"",
+   "fix": "His number, cut conservative (\"100 y pico\"), five jobs, said out loud at 34:05 before any add-on price. Right.\n**Add the check (Script):** \"Can you see how easy it is to understand ROI? Does that make sense?\" Then: \"That's exactly why people stay with us month over month and we don't do contracts. It's very easy to understand your ROI when tracking these three metrics.\""
+  },
+  {
+   "problem": "5. Review process is manual",
+   "said": "Yes",
+   "quote": "24:30 \"yo les digo a los clientes, oh, me dejen un review ahí, por favor… pero nunca lo ponen.\" 22 reviews, 4.9 stars, two years open.",
+   "fix": "**Missed opportunity:** you said the count out loud and taught the reactivation, but \"key factor for ranking\" never came until after the close (1:12:04), and at 35:02 you said \"para que la persona no ponga una mala reseña en el perfil.\" Never that wording.\n**Probe (Script):** \"When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\"\n**Educate (Script):** \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week. And our system helps you automatically do that without having to reach out to your clients yourself as well as outrank your competitors along the way. Does that make sense?\" On a bad review (Q&A): \"We help you get more reviews to push a bad one down.\""
+  },
+  {
+   "problem": "6. Listing not optimized",
+   "said": "Yes",
+   "quote": "54:51 \"como yo no sé meterme muy bien a Google para ver qué tanto se ofrece, yo estoy pensando que está todo en la lista.\" 55:39 \"esto lo debió haber hecho la compañía de marketing que me diseñó los logotipos… ¿verdad?\"",
+   "fix": "None. The live dig (two services, no description, Larry's listing at his address, Astro at #3 with 253 reviews) did what \"what did they actually do to optimize it?\" is for, and he priced the fix himself."
+  }
+ ],
+ "readOwner": [
+  {
+   "said": "**25:34** \"ando buscando cosillas así como estas de ustedes donde me puedan dar un poco de más tráfico para que mi taller pueda sobresalir, para que sea de los primeros en ver.\"",
+   "belief": "New business means more traffic.",
+   "educated": "Partly",
+   "did": "Went to his AI interest. At 30:31 half of first gear (\"ahora mismo hacemos publicidad, sería… primero hacemos los fundamentos\") with no Google listing as first gear and no yes. At 46:02 \"cuando ya quieres un tráfico bien cerdo, los 250 te va a ayudar.\"",
+   "fix": "**Probe (Brandon's line):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\"\n**Educate (Brandon's line):** \"Hey, most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\""
+  },
+  {
+   "said": "**25:34** \"si IA contesta las llamadas por mí, está bien, porque yo para el inglés, para hablar y para escribirlo, yo no soy muy bueno.\"",
+   "belief": "None. This is why he is buying.",
+   "educated": "",
+   "did": "At 35:02 \"Este paquete no incluye lo de las llamadas de IA,\" then the receptionist demo at 36:42 with the $200 and the three-month giveaway, before his listing and the four things.",
+   "fix": "**Hold it for the close (Script):** \"We're running a special right now. If you commit to a 3-month billing cycle up front two things happen. You get the winning formula where we go in and rebuild out your listing the right way for half off. $250 instead of $500. Two, you get our AI receptionist included. Normally that's $200 a month. It handles all your inbound leads, picks up the phone when you can't, and it's trained specifically for your shop, and how you talk to customers. Here's an example of what it sounds like…\" (play clip) \"Which one do you want to get started with?\""
+  },
+  {
+   "said": "**29:00** \"no soy muy bueno para la tecnología… eso es lo que me preocupa un poquito, de poder ver cómo está esto.\"",
+   "belief": "I won't be able to use it.",
+   "educated": "Yes",
+   "did": "A bilingual account manager, a monthly call, recorded videos, \"el sistema es muy sencillo.\" He said \"Sí.\"",
+   "fix": "None."
+  },
+  {
+   "said": "**45:31** \"Entonces, ahorita si lo agarro mes con mes, nada más sería lo puro 297, que es puro mensaje y todo, ¿verdad?\"",
+   "belief": "Start small and see how it works first.",
+   "educated": "No",
+   "did": "Talked up the $297 (\"ya es una mejora bastante grande… con el 297 te va a ayudar muchísimo\") and parked the special for later. No grandfather line, no \"why three months.\"",
+   "fix": "**Missed opportunity:** he asked what month to month gets him, and the answer was that $297 is plenty.\n**Educate (Script, why three months):** \"Because it's $297 a month. You're not going to change your business overnight for $297. Month one we build everything and start reactivating your list. You'll see reviews coming in and, depending on how strong your listing already is, your first leads. Month two it's running. Month three is when you can actually look at the numbers and see what it's doing. Three months is a fair shot. Anything less and you're judging it before it's had a chance to work. And for giving it that shot, you get the listing at half off and the AI receptionist built specifically for your business, free. Still no contract — cancel any time after.\"\n**Then (Script):** \"Which one do you want to get started with?\""
+  },
+  {
+   "said": "**49:38** \"me habían mandado algo Google hace unos días que yo aparecía en el tercer lugar, ¿eso sería cierto?\" **56:10** paid the last company \"como unos 1500 dólares.\"",
+   "belief": "My listing is set up; the company I paid did that.",
+   "educated": "Yes",
+   "did": "Searched live: not in the top three, Larry's old listing at his address, two services, no description. \"Diles que te regañas… no te lo hicieron.\" He agreed: \"esos son los que debían haber hecho eso, ¿verdad?\"",
+   "fix": "None."
+  },
+  {
+   "said": "**1:07:48** \"cumpliéndose los tres meses ustedes me tienen que hablar para volver a hacerle otro pago?\" **1:09:32** \"la Yusa Click… me estaban cobrando doscientos noventa por semana.\" **1:10:32** \"yo creo que en tres meses al menos saco mi inversión… con Yelp… no pasa de 300 dólares al mes.\"",
+   "belief": "Marketing companies lock you in and you never see what you got.",
+   "educated": "Partly",
+   "did": "No contract, cancel by not paying, \"lo podemos poner en escrito.\" Then at 1:10:24: \"ya fue la segunda semana, ya consiguen la inversión de vuelta, generalmente.\" A result by a date.",
+   "fix": "**Missed opportunity:** he did the ROI himself (\"en tres meses al menos saco mi inversión\") and got a week-two promise back.\n**Educate (Script anchor):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three numbers every month so you can understand your ROI: leads captured from the traffic you're already getting, missed calls saved, reviews earned.\"\n**Then (Q&A):** \"I'm not asking you to trust me. I'm asking you to check the numbers in 30 days.\" No week-two result."
+  },
+  {
+   "said": "**1:12:25** \"yo me he dado a conocer mucho también por pura recomendación. Yo he hecho mi taller por pura recomendación.\" **17:59** \"Nosotros los hispanos… somos más a la antigüita de tarjetitas, de recomendaciones.\"",
+   "belief": "Customers come from referrals; the internet isn't where my customers are.",
+   "educated": "Partly",
+   "did": "\"es muy valioso que otra persona ponga su nombre y diga este negocio lo recomiendo.\" He restated the belief.",
+   "fix": "**Missed opportunity:** Astro next door has 253 reviews to his 22, and the referral line never ran.\n**Educate (Q&A):** \"That's great. Referrals mean you do good work. But think about what happens when your buddy tells his neighbor about you. The first thing that neighbor does is look you up on Google before he calls. If he sees 20 reviews and the shop down the street has 200, who does he call? So your referrals are already going to Google. We just make sure that when they get there, they see hundreds of reviews and they call you, not the other guy.\""
+  }
+ ],
+ "fathom_recording_id": 193049573
+}

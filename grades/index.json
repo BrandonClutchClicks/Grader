@@ -1,5 +1,15 @@
 [
  {
+  "rep": "Ivan Rey",
+  "owner": "Luis Guzmán",
+  "shop": "Boris Auto Repair LLC (Milwaukee, WI)",
+  "date": "2026-10-15",
+  "closed": true,
+  "id": "2026-10-15-ivan-rey-boris-auto-repair",
+  "problems": "6 of 6",
+  "fathom_recording_id": 193049573
+ },
+ {
   "rep": "Todd Cowie",
   "owner": "Eray Ergal",
   "shop": "West Hills Complete Car Care (Huntington, NY)",
