@@ -1,6 +1,16 @@
 [
  {
   "rep": "Ivan Rey",
+  "owner": "Alex Salazar (booked in Fathom as Fred Salazar Cruz; joined as \"alex salazar\")",
+  "shop": "On Point Auto Body (Los Angeles, CA)",
+  "date": "2026-10-16",
+  "closed": false,
+  "id": "2026-10-16-ivan-rey-on-point-auto-body",
+  "problems": "3 of 6",
+  "fathom_recording_id": 193535675
+ },
+ {
+  "rep": "Ivan Rey",
   "owner": "Marco Machado's daughter (part-time at the shop about two years; Marco, the owner, was on at the start in Spanish and handed the call to her)",
   "shop": "Marco Machado's collision shop (Springdale, AR)",
   "date": "2026-10-16",
