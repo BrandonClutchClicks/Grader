@@ -1,6 +1,16 @@
 [
  {
   "rep": "Ivan Rey",
+  "owner": "Michael Newman",
+  "shop": "Automotive Performing Tooling LLC (Hebron / Lebanon, PA — European and Porsche work)",
+  "date": "2026-10-19",
+  "closed": false,
+  "id": "2026-10-19-ivan-rey-automotive-performing-tooling",
+  "problems": "3 of 6",
+  "fathom_recording_id": 193956201
+ },
+ {
+  "rep": "Ivan Rey",
   "owner": "Alex Salazar (booked in Fathom as Fred Salazar Cruz; joined as \"alex salazar\")",
   "shop": "On Point Auto Body (Los Angeles, CA)",
   "date": "2026-10-16",
