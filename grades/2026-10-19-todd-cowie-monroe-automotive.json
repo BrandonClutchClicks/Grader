@@ -1,0 +1,161 @@
+{
+  "rep": "Todd Cowie",
+  "owner": "Jose Aranda",
+  "shop": "Monroe Automotive (Chandler, AZ — fleet and small school bus work)",
+  "date": "2026-10-19",
+  "closed": false,
+  "outcome": "Not closed. He picked the $297 month-to-month (\"obviously, the package makes more sense, but financially, I can't do that right now,\" 17:47), started giving his email, then stopped: \"we just had a lot of parts go out, and I'm not ready to do this one yet. We can do it tomorrow\" (18:46). Todd is calling him Tuesday, October 20 at 7:30 AM Arizona to take the order and book onboarding.",
+  "flag": "",
+  "why": "Jose arrived already sold on \"the follow-up that you guys do with the text messages\" (01:01), and that early yes got the timeline, then \"$297 a month\" and a feature list at 02:21, before he had heard why a smart website exists versus the $100-a-month one TechMetric is building him, and before any of his numbers ($1,000 ticket, $2,000–$3,000 bus jobs one to five a week, 80–100 cars a month against the 300 he used to do) were turned into a return. So when the special came, $1,141 was a cost to a man who had been given no math to weigh it against, and the $297 was easy to put off until tomorrow. The setter's handoff note was not available for this grade.",
+  "three": [
+    {
+      "happened": "**01:01** His first words after the video: \"Honestly, I'm pretty much familiar with most of it. What I really liked about it is the follow-up that you guys do with the text messages... I normally collect email addresses for my customers coming in, and I was using Sales Genie, and I found that emails don't work.\" You said \"It's emails the new faxing... Awesome,\" went to \"seven to 10 days... onboarding call... four things,\" then at **02:21**: \"$297 a month, as you saw in the video. It includes our Smart Website System, Automatic Lead Follow-Up, Missed Call Text-Back, and our Magic Review System.\"",
+      "say": "**Acknowledge (Brandon's line A):** \"Well Jose, that's a great question. That's one of the key features as well as metrics we track every single month when using the smart website system.\"\n**Bridge (Brandon's line A):** \"You're probably curious why shops like yours have this setup versus a traditional website, right?\" Wait for the yes.\n**Educate (Script, first gear):** \"Great, that's the most common question we get on these calls, and the answer is simple. Most operators we work with, the first thing they think about when bringing new business into their shop is they think they have to run paid ads. However, that's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest and most valuable asset you have to your business, which is your Google My Business listing, and implementing a system in place to really maximize capturing the traffic from it. Does that make sense?\" Wait for the yes. **Then (Script):** \"The reason why people pay us $297 a month and we don't do contracts it's because we track three metrics every month so you can understand your Return On Investment: leads captured from the traffic you're already getting, how many missed calls we save you, and how many reviews we help you get month over month.\" **Then, because his site is down (Script, Metric 1, no website):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Stop.",
+      "why": "He came in thinking the product is text follow-up, which is exactly what TechMetric's $100 site can't do; the bridge is what makes him weigh $297 against leads captured instead of against $100."
+    },
+    {
+      "happened": "**18:46** After \"Yep. Yep\" to the $297 start and the first half of his email: \"So we're going to have to circle back on this one tomorrow morning, because we just had a lot of parts go out, and I'm not ready to do this one yet. We can do it tomorrow.\" You said: \"Okay, okay. What time do you want to catch up tomorrow?\"",
+      "say": "**Acknowledge (Q&A, \"Cash flow is tight right now\"):** \"No worries. We get you started with the foundation at $297. I'll mark your account, and if you ever want to add the optimization, we'll grandfather you in at this special. You'll be in contact with my team week to week anyway. You're not risking it; looking at your business, I can tell you we're going to help you out.\"\n**Then (Script, the downsell):** \"You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\" Send the checkout link while he's on the screen.",
+      "why": "He had already said yes twice; \"parts went out\" is a cash-flow objection with an approved answer, and the man who leaves the call without the link is the man who has to be re-sold at 7:30 tomorrow."
+    },
+    {
+      "happened": "**06:35–06:56** \"my average right now is probably somewhere around close to a thousand... small school buses and those tickets are anywhere from two to $3,000 and we do one to five a week... our average car per month was about 300, and here I'm doing roughly about 80 to 100... I just need more numbers.\" You said \"Wow. Okay. That's awesome,\" then at 07:46 \"you're getting traffic organically, you're just not capturing it,\" with no question and no review count.",
+      "say": "**Probe (Brandon's line E, he has 128 reviews):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Stop. He won't know. Say the 128 out loud: a shop with that many reviews is already getting traffic to its listing; he's just not doing everything in his power to capture it.\n**Educate (Brandon's line C):** \"Most operators we talk to, the first thing they think about when getting new business into their shop is that they have to run paid ads. That's like going from second gear to fourth gear without starting at first gear. First gear is utilizing the freest, most valuable asset you have to your business, which is your Google My Business listing, and having a system in place to really capture that traffic and work that traffic at a high level.\"\n**Then the math in his number, before any price (Script, 3F):** \"You mentioned earlier your average order value is around $1,000. Let's say we just talked about one of our features, the missed call text back. Now if all we did was save you one missed call every 2 weeks you would still be 3-4x on a $297 investment. That doesn't include the smart website we build for you, the leads we capture, or the reviews we help you get. Can you see how easy it is to understand ROI? Does that make sense?\"",
+      "why": "He handed you a 200-car-a-month gap and $2,000 bus jobs; the math in those numbers is what makes $1,141 look small, and he never heard it before he heard the price."
+    }
+  ],
+  "oneMore": "**03:00–03:14** \"I've heard about this from TechMetric, where they got a thing now, isn't it? And it's like $180 a month, no?... because it's my first year, I believe they're going to be doing it for $100 a month.\" You said \"Correct,\" then \"You don't need one with that,\" and a story about a TechMetric customer who came over. **Say (Brandon's line I):** the same two questions as any website: \"Does it text the lead back? And how many leads did it produce last month?\" Stop. Then: our system is built to capture, not just look cool. A lot of guys have come to us from shop-software websites because they looked decent but weren't built to convert. Then Metric 1. He is weighing $297 against $100; those two questions are what make the $100 site the expensive one.",
+  "didWell": [
+    "**04:43–06:35** \"Are you missing calls at the shop now?\" got \"Try not to, but it's kind of hard sometimes... yes, yes,\" and \"What's your average ticket size right now?\" got \"close to a thousand... two to $3,000 and we do one to five a week.\" Two problems in his own words.",
+    "**17:25** \"Which one do you think makes more sense to get you started going on?\" got \"obviously, the package makes more sense,\" and the grandfather downsell at 17:57 got \"Yep. Yep.\""
+  ],
+  "followUp": "Tuesday, October 20, 7:30 AM Arizona (Todd calls). Open with the checkout link already sent and the line he didn't hear: \"No worries. We get you started with the foundation at $297. I'll mark your account, and if you ever want to add the optimization, we'll grandfather you in at this special. You're not risking it; looking at your business, I can tell you we're going to help you out. Onboarding — morning or evening?\" If he hesitates on money again, run the math he never heard first: \"You mentioned your average order value is around $1,000... if all we did was save you one missed call every 2 weeks you would still be 3-4x on a $297 investment.\" Have a real answer ready on the TechMetric appointment-widget integration you said yes to at 13:19.",
+  "counts": {
+    "problems": "3 of 6",
+    "beliefs": "0 of 6",
+    "missed": "12"
+  },
+  "breakdownNote": "Fathom's speaker labels are wrong for much of this call (01:51, 04:35, 08:00, 10:55, 12:51 and 17:24 labeled Jose are Todd; the ticket answer inside 06:35, 02:56, 06:56, 09:56 and the \"that's why I ask\" inside 13:34 are Jose); lines are attributed by content. The owner said he had watched the video, so nothing was played. Three beliefs were partly educated (the TechMetric site, \"I need more numbers,\" and the text-follow-up framing); none got the full line and a yes. The setter's handoff note was not available, so what Todd knew going in (the site being down, TechMetric, 128 reviews, fleet work) could not be checked. The Closed Calls Index and Objection Library is not in project knowledge for this grade. The live search at 10:29 was \"Auto Body in Chandler\" and the receptionist clip is a collision scenario; Jose described fleet and school bus work, so the competitor on screen may not be his.",
+  "stages": [
+    {
+      "stage": "1. Intro + Frame",
+      "happened": "Path set (\"we watch a video, go over your questions, everything makes sense, we get you going\"), decision maker gated (\"Partners, wives, operations, managers, anything? No\"), 00:29. The shop was never named or confirmed (\"he called you the other Jose?\").",
+      "fix": "**Script:** \"Pleasure to have you on. I know we're going to be talking about Monroe Automotive. Is that the only shop you run, or do you run multiple?\""
+    },
+    {
+      "stage": "2. Video Check",
+      "happened": "\"Did you get a chance to watch a video we sent over? yes\" (00:29). Confirmed; nothing to play.",
+      "fix": "None."
+    },
+    {
+      "stage": "3. Product Value & Application",
+      "happened": "His early yes (01:01) got the timeline, then \"$297 a month\" and the feature list at 02:21 before any question or metric. No bridge question, no first gear; \"we track three metrics for you month over month\" said at 04:43 without the anchor line. Metric 1 never asked (site down; the no-website branch not run); form-to-inbox asserted for him (04:35). Metric 2 asked and stopped (yes, $1,000). Metric 3 opened as a teach (\"So the third is the amount of reviews we get you,\" 08:53) with no question. The $500 math (08:45) came after the price.",
+      "fix": "**Script, 3B, run it after his first answer and before any price:** \"I'm sure you're probably asking yourself, why do shops use a smart website system versus a traditional website, and how do they actually see a return on it? Is that a fair assumption, Jose?\" Stop. First gear word for word. \"Does that make sense?\" Stop. Then the three metrics, Metric 1 (no-website branch), Metric 2 with his ticket, Metric 3 (\"How are you getting reviews at the moment?\"), then the math, then the price."
+    },
+    {
+      "stage": "4. GMB Upsell",
+      "happened": "Map pack explained with a live search (\"Auto Body in Chandler,\" sponsored vs organic, 10:29); findings at 11:00 as reviews, photos/geotagging, services (conceded), description (\"was that written by you? No\"). \"Winning formula\" said once, after the findings, about the description only (12:30); never \"outside of us getting you reviews on the $297\"; \"when did you last optimize\" never asked; no competitor clicked into.",
+      "fix": "**Script:** \"...when was the last time you optimized this listing?\" Stop. **Brandon's line J, before any finding and again on each:** \"Well Jose, there is a winning formula to get your listing set up the right way to increase your chances of ranking higher on the map pack, outside of us getting you reviews on our $297/month package. Do you know what the map pack is?\" Then photos, services with a live competitor clicked open, description, each opening with \"when it comes down to the winning formula...\""
+    },
+    {
+      "stage": "5. Transition",
+      "happened": "\"seven to 10 days... onboarding call, about a half an hour long. There's four things we get you to bring\" said at 01:31, at minute one, and the four things were never listed. \"Morning or evening\" never asked for onboarding; 7–10 days repeated at 17:57.",
+      "fix": "**Script, after the money and the listing:** \"On that onboarding call we need four things from you. Do you have photos of your best work? The 2nd thing we need is your customer database and whoever you want reactivated to leave a google review. The 3rd thing we need from you is a list of services because we are going to be building individual service pages for every service you do. The 4th thing is a list of your service areas. When would you be available for the onboarding call tomorrow, in the morning or the evening?\""
+    },
+    {
+      "stage": "6. Close",
+      "happened": "$297 no contract, the winning formula as one-time, why guys stay (\"the system just kind of works\"), the special as two things ($250 instead of $500, receptionist), the clip, \"Which one do you think makes more sense\" (14:30–17:25). He balked on money (17:47); grandfather downsell run (17:57) and he said \"Yep. Yep.\" Then the stall at 18:46 was accepted with \"Okay, okay. What time do you want to catch up tomorrow?\" The $297 had been revealed at 02:21.",
+      "fix": "**Script, the downsell, finished:** \"It doesn't expire on you. So you get to see the system working first, reviews coming in, leads showing up in the app. You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\" Send the checkout link before he leaves the screen."
+    }
+  ],
+  "scoreboard": [
+    {
+      "problem": "1. Doesn't know website leads",
+      "said": "No",
+      "quote": "Never asked. **02:41** \"it's down because I switched marketing groups, and I'm having the other one built. So, we're not up and running yet.\" You said \"You don't need one with that. Okay, I can build, we build you a website.\" **13:34** \"I get people come in and they're like, hey, I tried booking an appointment online, but it wouldn't let me. And I'm like, well, my website's down right now. So just give me a couple more weeks.\" You answered the appointment widget.",
+      "fix": "**Missed opportunity:** \"I tried booking an appointment online, but it wouldn't let me\" (13:34) is him telling you leads are walking today; it got \"we can integrate your appointment setter into our Smart Website.\"\n**Probe (Script, Metric 1, no website):** \"Right now you don't even have a website. So let me ask you this, do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Stop.\n**Educate (Script):** \"Because before you ever spend a dollar on Google Ads or Facebook Ads, the most valuable asset you have is this right here — your listing. And you're already getting traffic to it. You're just not doing everything in your power to capture it.\""
+    },
+    {
+      "problem": "2. Form goes to an inbox / no automatic text-back",
+      "said": "No",
+      "quote": "He never said it; you said it for him. **04:35** \"their contact stuff is still just a contact us, and it's still dropping in an email box... Nobody uses it, Jose. It's dead, right?\" The nearest he came: **01:01** \"I normally collect email addresses for my customers coming in, and I was using Sales Genie, and I found that emails don't work.\" You said \"It's emails the new faxing.\"",
+      "fix": "**Missed opportunity:** collecting emails by hand through Sales Genie (01:01) is him doing the follow-up himself; it got \"emails the new faxing.\"\n**Educate (Brandon's line B):** \"Hey, this is exactly why people use this system, so that you don't have to text them back manually.\" **Then (Script, Metric 1):** \"When someone fills out this form, does yours land in an inbox?\" Stop. \"Any form fill or widget fill gets automatically texted. As opposed to hitting your traditional website and praying and waiting for a response.\" Then the Tareva lead: \"You can think of our system as if it's dancing with your prospect and then it's your job to come into the conversation and pick it up and close the deal. Does that make sense? Can you see why shops have this set up?\""
+    },
+    {
+      "problem": "3. Misses calls",
+      "said": "Yes",
+      "quote": "**06:21** \"Try not to, but it's kind of hard sometimes because there's times where we have a customer in front of us and the customer speaking and it's hard to cut them off... but I mean, yes, yes, we can.\" You went straight to the ticket, then taught the text-back with a live example (08:03). \"What happens when you miss\" was not asked; \"Does that make sense? Can you see why shops have this set up?\" was not asked.",
+      "fix": "**Educate (Script, Metric 2, after the ticket):** \"Naturally if you miss a call what usually happens?\" Stop. \"Yes, that's definitely one of the things that happens. However, naturally, if you miss a call in a high-volume-based business like automotive, people need work done immediately. If you miss a call, naturally that person is just going to call the next business. Would you agree? With our missed call text-back feature, it prevents that lead from calling your competitor. Does that make sense? Can you see why shops have this set up?\""
+    },
+    {
+      "problem": "4. Average ticket (a number)",
+      "said": "Yes",
+      "quote": "**06:35** \"my average right now is probably somewhere around close to a thousand... small school buses and those tickets are anywhere from two to $3,000 and we do one to five a week.\" You said \"Wow. Okay. That's awesome,\" and at **08:45** \"every call you don't answer, on a day for you, is a $500 bill, right?... We're 2Xing you on our system\" — his number, cut in half, but after \"$297 a month\" at 02:21.",
+      "fix": "**Educate (Script, 3F, before any price):** \"You mentioned earlier your average order value is around $1,000. Let's say we just talked about one of our features, the missed call text back. Now if all we did was save you one missed call every 2 weeks you would still be 3-4x on a $297 investment. That doesn't include the smart website we build for you, the leads we capture, or the reviews we help you get. Can you see how easy it is to understand ROI? Does that make sense?\" Wait for the yes. \"That's exactly why people stay with us month over month and we don't do contracts. It's very easy to understand your ROI when tracking these three metrics.\""
+    },
+    {
+      "problem": "5. No review process / manual",
+      "said": "No",
+      "quote": "Never asked. **08:53** \"So the third is the amount of reviews we get you... Four and five-star reviews are going to land on your profile immediately. Three and below go to a feedback form, which allow you to try and make it right, or they just don't land.\" **09:56** He asked \"So it keeps the lower ones away until you...\" and you finished it: \"get a chance to fix them, right? Plus, we all know, competitors sometimes are jerks and put fake on your Google. So this helps mitigate that.\"",
+      "fix": "**Probe (Script, Metric 3):** \"The third metric is how many reviews are we able to get month over month. How are you getting reviews at the moment?\" Stop.\n**Educate (Script):** \"Anyone that you have in your TechMetric, wherever you're storing your previous database, we take that list and we reactivate them to push them to leave a Google review. When it comes down to ranking higher on Google, do you know one of the key factors for ranking higher?\" Stop. \"Yes, correct. However Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week.\" **Never \"they just don't land\" (Brandon's line K):** \"It's not about guaranteeing a 5-star rating. We don't do any black-hat methods to remove bad reviews. We help you get more reviews to push a bad one down.\""
+    },
+    {
+      "problem": "6. Hasn't optimized his listing / doesn't know what was done",
+      "said": "Yes",
+      "quote": "**12:20** \"The next one is a description, which you have a very basic one here. So is that, was that written by you?\" → \"No.\" One word, about the description only; \"when was the last time you optimized this listing\" was never asked, and the findings had already been given with no frame in front of them (11:00).",
+      "fix": "**Probe (Script):** \"...when was the last time you optimized this listing?\" Stop. If he has an answer: \"But what did they actually do to optimize it? That's the biggest thing.\"\n**Educate (Brandon's line J, then Script):** \"Well Jose, there is a winning formula to get your listing set up the right way to increase your chances of ranking higher on the map pack, outside of us getting you reviews on our $297/month package.\" **On the description (Script):** \"Did you write this or did a team member write this? Most people write something super generic. Like 'this is my shop, we do great work in X area.' They don't realize there's a real strategy to writing this description to help you get the leads you're looking to get.\""
+    }
+  ],
+  "readOwner": [
+    {
+      "said": "**01:01** \"Honestly, I'm pretty much familiar with most of it. What I really liked about it is the follow-up that you guys do with the text messages.\"",
+      "belief": "The product is text follow-up, and he's already a yes. Partly educated: the three metrics were named (04:43) but no bridge, no first gear, and no yes collected before the price.",
+      "educated": "Partly",
+      "did": "\"Awesome. Well, that's cool,\" the timeline at 01:31, \"show you how people get an ROI on this, is that fair?\" at 02:00, then \"$297 a month... Smart Website System, Automatic Lead Follow-Up, Missed Call Text-Back, and our Magic Review System\" at 02:21.",
+      "fix": "**Acknowledge (Brandon's line A):** \"Well Jose, that's a great question. That's one of the key features as well as metrics we track every single month when using the smart website system.\"\n**Bridge (Brandon's line A):** \"You're probably curious why shops like yours have this setup versus a traditional website, right?\" Wait for the yes.\n**Educate (Brandon's line L):** an early yes is \"no questions\" — go into the bridge, not the price. Then first gear, \"does that make sense,\" the three metrics, and Metric 1 with the Tareva demo, because \"just texting\" points there."
+    },
+    {
+      "said": "**03:00–03:14** \"they were charging me $1,500 a month... I've heard about this from TechMetric, where they got a thing now, isn't it? And it's like $180 a month, no?... because it's my first year, I believe they're going to be doing it for $100 a month.\"",
+      "belief": "A website is a website, and the cheaper one will do. Partly educated: the capture point was made as a story, not a question, and he said \"Correct, correct. Absolutely\" to \"they're already going to the next person.\"",
+      "educated": "Partly",
+      "did": "\"Correct.\" Then \"You don't need one with that. Okay, I can build, we build you a website... That is part of the 297,\" and the story of a TechMetric customer whose \"contact stuff is still just a contact us, and it's still dropping in an email box.\" The $1,500 a month was never asked about.",
+      "fix": "**Probe (Brandon's line I):** \"Does it text the lead back? And how many leads did it produce last month?\" Stop.\n**Educate (Brandon's line I):** our system is built to capture, not just look cool. A lot of guys have come to us from shop-software websites because they looked decent but weren't built to convert. **Then (Q&A, \"I already have a website\"):** \"the real reason guys switch to a smart website system over a traditional one comes down to the sales process: tracking your lead flow and knowing your numbers so you can scale the smartest way possible.\" Then Metric 1."
+    },
+    {
+      "said": "**06:56** \"I need both, because it needs to be somewhat of a balance... sometimes fleet dries up for a week to two weeks... at that point I'm searching for customers that I already have, that are due for services... I just need more numbers, because if we can do more numbers, then it's more revenue.\"",
+      "belief": "New business means more traffic (\"more numbers\"), and reactivating his own customers is something he does by hand. Partly educated: you reframed to capture (07:46) but never asked what his listing produces, never said the 128, never ran first gear, and the manual reactivation became \"a campaign\" in the notes (11:00, 14:50) instead of the leak it is.",
+      "educated": "Partly",
+      "did": "\"you're getting traffic now, right? You're getting traffic organically, you're just not capturing it... this is linked from your Google profile.\" Later: \"you talked about repeat business. We can also engage those customers in a campaign.\"",
+      "fix": "**Missed opportunity:** \"I'm searching for customers that I already have, that are due for services\" (06:56) is him reactivating his database by hand; it got nothing at the moment and a \"campaign\" later.\n**Probe (Brandon's line E):** \"Do you know how much traffic you're getting from your Google listing? Or how many calls it's actually producing for you?\" Stop. Say the 128 reviews out loud.\n**Educate (Script, Metric 3):** \"Anyone that you have in your TechMetric, wherever you're storing your previous database, we take that list and we reactivate them to push them to leave a Google review and/or to send any special offers to bring them back into your shop.\""
+    },
+    {
+      "said": "**09:56** \"So it keeps the lower ones away until you...\"",
+      "belief": "The review system keeps bad reviews off his profile. You agreed with it and added fake-review mitigation.",
+      "educated": "No (agreed with the belief)",
+      "did": "\"get a chance to fix them, right? Plus, we all know, competitors sometimes are jerks and put fake on your Google. Oh. So this helps mitigate that, okay?\"",
+      "fix": "**Educate (Brandon's line K):** \"It's not about guaranteeing a 5-star rating. We don't do any black-hat methods to remove bad reviews. We help you get more reviews to push a bad one down.\" Then: \"Google doesn't care if you have 500 Google reviews. Google wants to see consistent reviews week over week.\""
+    },
+    {
+      "said": "**13:19** \"Does your website, by any chance, integrate with TechMetric for appointments?\"",
+      "belief": "A question about what the product does with his shop software. No approved answer in project knowledge for an appointment-widget integration; the Q&A covers TechMetric only for the database export.",
+      "educated": "No",
+      "did": "\"It can, yes... we can attach the widget into the TechMetric appointment maker,\" then \"the requesting of information is way quicker, because then you can start to pick up the conversation in your back end,\" then \"So you're covered kind of in all areas. What else?\" No bounce to a metric.",
+      "fix": "**No approved answer in project knowledge** for embedding the TechMetric appointment widget. Closest (Q&A, \"Is this part of a repair system? I have a book-now button\"): \"No, it's not a repair system, and it doesn't replace one. It sits in front of it. Our system captures the lead and starts the conversation; once you've got the job, it goes into whatever shop system you already use... Bringing a new lead into your shop happens through a conversation, a call, a text, an email. Would you agree?\" **Then bounce (Script, Metric 1):** \"do you know how many leads you're capturing from your website right now?\" Get a real answer on the widget before Tuesday."
+    },
+    {
+      "said": "**17:47** \"Well, mean, obviously, the package makes more sense, but financially, I can't do that right now. Okay. So, it would have to be the month-to-month right now at the moment.\"",
+      "belief": "Cash is tight. Educated: the downsell was run and he said \"Yep. Yep.\"",
+      "educated": "Yes",
+      "did": "\"You can start on the $297, and then we can get you built, get the website launched, start getting you some business, and I will grandfather this offer in for you... in 30 days, you can go, I just want to pay the difference, get the two months, do the Google Optimization at half price, get my receptionist up and running. Fair enough?\"",
+      "fix": "**Educate (Script, the downsell, the words that were left out):** \"I'll mark your account so you're grandfathered in at this special. That means whenever you're ready, you tell your account manager and you still get the listing at $250 and the AI receptionist included on the 3-month billing cycle. It doesn't expire on you... You're not risking anything. You'll be in contact with my team every week anyway. Let's get you started at $297. Onboarding tomorrow — morning or evening?\""
+    },
+    {
+      "said": "**18:46** \"So we're going to have to circle back on this one tomorrow morning, because we just had a lot of parts go out, and I'm not ready to do this one yet. We can do it tomorrow.\"",
+      "belief": "Cash is tight today. Not educated: the stall was accepted in the same breath.",
+      "educated": "No",
+      "did": "\"Okay, okay. What time do you want to catch up tomorrow?... I will call you when I get up to have my coffee, and we will take care of this and get you started and book your onboarding.\"",
+      "fix": "**Acknowledge (Q&A, \"Cash flow is tight right now\"):** \"No worries. We get you started with the foundation at $297. I'll mark your account, and if you ever want to add the optimization, we'll grandfather you in at this special. You'll be in contact with my team week to week anyway. You're not risking it; looking at your business, I can tell you we're going to help you out.\"\n**Then (Script, the downsell):** \"Let's get you started at $297. Onboarding tomorrow — morning or evening?\" Send the checkout link while he's on the screen."
+    }
+  ],
+  "fathom_recording_id": 194099450
+}
