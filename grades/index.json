@@ -1,8 +1,18 @@
 [
   {
     "rep": "Todd Cowie",
+    "owner": "Munir Elhag and his wife Fadwa Elsayed Mohamed (both on the call); the tire company Munir operates for, which he said will pay, was not on the call",
+    "shop": "Dr. Tire (Falls Church, VA \u2014 mobile tire service, no website; transcribed \"Dr. Tyre's\" / \"Dr. Tires\", name to confirm)",
+    "date": "2026-10-26",
+    "closed": false,
+    "id": "2026-10-26-todd-cowie-dr-tire",
+    "problems": "3 of 6",
+    "fathom_recording_id": 196279712
+  },
+  {
+    "rep": "Todd Cowie",
     "owner": "Munir Elhag (decides with his wife Fadwa, who was not on the call)",
-    "shop": "Dr. Tire (Falls Church, VA — mobile tire service; name as transcribed, to confirm)",
+    "shop": "Dr. Tire (Falls Church, VA \u2014 mobile tire service; name as transcribed, to confirm)",
     "date": "2026-10-23",
     "closed": false,
     "id": "2026-10-23-todd-cowie-dr-tire",
@@ -12,7 +22,7 @@
   {
     "rep": "Todd Cowie",
     "owner": "Alondra Martinez and her father Domingo \"Mingo\" Martinez (pays; left the room around 20:00)",
-    "shop": "Pro 1 Paint & Collision (Mableton, GA — paint and collision; no website)",
+    "shop": "Pro 1 Paint & Collision (Mableton, GA \u2014 paint and collision; no website)",
     "date": "2026-10-23",
     "closed": false,
     "id": "2026-10-23-todd-cowie-pro-1-paint-collision",
@@ -32,7 +42,7 @@
   {
     "rep": "Todd Cowie",
     "owner": "Blake Lunsford",
-    "shop": "Gateway Glass Tinting (St. Louis / Green Park, MO — window tinting)",
+    "shop": "Gateway Glass Tinting (St. Louis / Green Park, MO \u2014 window tinting)",
     "date": "2026-10-21",
     "closed": false,
     "id": "2026-10-21-todd-cowie-gateway-glass-tinting",
@@ -42,7 +52,7 @@
   {
     "rep": "Todd Cowie",
     "owner": "Jose Aranda",
-    "shop": "Monroe Automotive (Chandler, AZ — fleet and small school bus work)",
+    "shop": "Monroe Automotive (Chandler, AZ \u2014 fleet and small school bus work)",
     "date": "2026-10-19",
     "closed": false,
     "id": "2026-10-19-todd-cowie-monroe-automotive",
@@ -52,7 +62,7 @@
   {
     "rep": "Ivan Rey",
     "owner": "Michael Newman",
-    "shop": "Automotive Performing Tooling LLC (Hebron / Lebanon, PA — European and Porsche work)",
+    "shop": "Automotive Performing Tooling LLC (Hebron / Lebanon, PA \u2014 European and Porsche work)",
     "date": "2026-10-19",
     "closed": false,
     "id": "2026-10-19-ivan-rey-automotive-performing-tooling",
@@ -131,7 +141,7 @@
   },
   {
     "rep": "Ivan Rey",
-    "owner": "Luis Guzmán",
+    "owner": "Luis Guzm\u00e1n",
     "shop": "Boris Auto Repair LLC (Milwaukee, WI)",
     "date": "2026-10-15",
     "closed": true,
